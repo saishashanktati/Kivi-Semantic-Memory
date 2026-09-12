@@ -1,1 +1,15 @@
-{}
+{
+  "shorthand": {
+    "cre": "CRE assignment",
+    "membrne": "membrane separation"
+  },
+  "typos": {
+    "membrne": "membrane",
+    "read cell": "RED cell",
+    "yestrday": "yesterday"
+  },
+  "indic_time": {
+    "kal": "yesterday",
+    "aaj": "today"
+  }
+}

@@ -42,6 +42,7 @@ def generate_corpus():
             
             record = {
                 "id": str(uuid.uuid4()),
+                "class": rtype,
                 "occurred_at": (datetime(2026, 5, 1) + timedelta(days=random.randint(0, 120))).isoformat(),
                 "mode": random.choice(["dictation", "hey_kivi"]),
                 "source": random.choice(["slack", "gmail", "browser", "whatsapp", "editor"]),
