@@ -1,0 +1,1993 @@
+{
+  "answerable": [
+    {
+      "id": 0,
+      "question": "Question 0 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "ad347d76-8ed3-4603-a6fa-ceb2fce648fb"
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Question 1 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "dde55cdb-6e78-46d0-a8e2-aed8f301c28c"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Question 2 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "7dbcb9e5-c5c8-49dd-8554-7a5d978aa4c0"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Question 3 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "a6a3f41a-bc24-4d57-920d-b49f7fe01ea9"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Question 4 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "74a34ba2-dbc8-4536-be32-6c6eadccd40b"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Question 5 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "da9399a4-b0e7-4963-a225-6e242b2a8265"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Question 6 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "3f288373-547d-4261-a576-7a28ebe265ad"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Question 7 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "68703383-e5dd-4e58-afde-efd38348c0f7"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Question 8 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "47aa5a48-5e0e-41c0-8bac-7f14958a5135"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Question 9 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "ec50f47c-a666-4a9a-91b7-ec4f1e970149"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Question 10 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "5c96cfd8-35c6-4a8e-9a15-8a61f9d5789e"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Question 11 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "0c938030-404a-4854-bb64-d54350ac46ee"
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Question 12 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "d2255489-ec04-42b3-b8b2-68ba2c6cf858"
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Question 13 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "71df6aec-46bf-45d7-87c4-155bb9868fa4"
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Question 14 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e9d44f1e-336e-4dac-a6f4-c1a4c96ed644"
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Question 15 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "bff8fc3b-f88b-4e6d-b958-8203698f1a17"
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Question 16 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "2384bd87-d8a7-4cd9-92a1-cf48f549ce8f"
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Question 17 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "89acbf29-abbc-49f8-9b44-fd766231d1ed"
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Question 18 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e953f94c-7a1b-4e41-8caf-3693d7790b80"
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Question 19 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e5eb30ef-b688-49b9-9e3d-12f953e9be71"
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Question 20 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "d0fca589-e76c-4dd3-8ff9-cde3e266442c"
+      ]
+    },
+    {
+      "id": 21,
+      "question": "Question 21 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "c8bfaa9e-8dd4-486f-bd31-4f363ddd5058"
+      ]
+    },
+    {
+      "id": 22,
+      "question": "Question 22 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "bc891ab2-29ae-486e-bfe5-ba8104217de3"
+      ]
+    },
+    {
+      "id": 23,
+      "question": "Question 23 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "bc24cca4-f170-4cfb-b0f1-1fa8442e4e90"
+      ]
+    },
+    {
+      "id": 24,
+      "question": "Question 24 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "9e94b5f7-1ebb-4340-82c6-55a55f792a4d"
+      ]
+    },
+    {
+      "id": 25,
+      "question": "Question 25 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "465be9a5-4b4d-47a3-a65e-d110b09b87b4"
+      ]
+    },
+    {
+      "id": 26,
+      "question": "Question 26 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "38071394-8b04-4a9e-8137-c8e379892588"
+      ]
+    },
+    {
+      "id": 27,
+      "question": "Question 27 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "cbd1a451-c8d5-457f-bd27-df0144530025"
+      ]
+    },
+    {
+      "id": 28,
+      "question": "Question 28 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "f2eeee7d-5633-4465-a96b-77cc7c2e5e44"
+      ]
+    },
+    {
+      "id": 29,
+      "question": "Question 29 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "89ed2086-e05f-4115-830f-a99fd082576d"
+      ]
+    },
+    {
+      "id": 30,
+      "question": "Question 30 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "6675324e-51c3-4d51-afe0-43486fb95ee5"
+      ]
+    },
+    {
+      "id": 31,
+      "question": "Question 31 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e5560f66-a591-49fe-bb14-8a2c50318652"
+      ]
+    },
+    {
+      "id": 32,
+      "question": "Question 32 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "2acf0efe-f2e8-4cd0-802e-686feba8d659"
+      ]
+    },
+    {
+      "id": 33,
+      "question": "Question 33 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "78f2210f-0ecf-474a-8e3f-fa4b55cf6e5c"
+      ]
+    },
+    {
+      "id": 34,
+      "question": "Question 34 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "8efd991d-01e7-40e2-9866-b51a4d826ff7"
+      ]
+    },
+    {
+      "id": 35,
+      "question": "Question 35 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "29883b22-3e60-4fa6-ae23-a73c930df80c"
+      ]
+    },
+    {
+      "id": 36,
+      "question": "Question 36 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "db6896cd-6017-4adb-84ea-561ae4cf9bdf"
+      ]
+    },
+    {
+      "id": 37,
+      "question": "Question 37 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "1a2d8df3-8906-4a25-9ed7-b2840ec98f12"
+      ]
+    },
+    {
+      "id": 38,
+      "question": "Question 38 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "490d2b33-319b-4d4d-af24-4e8d72eb6102"
+      ]
+    },
+    {
+      "id": 39,
+      "question": "Question 39 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "58f262f1-9b44-452b-b3ff-ae7476543e1e"
+      ]
+    },
+    {
+      "id": 40,
+      "question": "Question 40 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "ad347d76-8ed3-4603-a6fa-ceb2fce648fb"
+      ]
+    },
+    {
+      "id": 41,
+      "question": "Question 41 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "dde55cdb-6e78-46d0-a8e2-aed8f301c28c"
+      ]
+    },
+    {
+      "id": 42,
+      "question": "Question 42 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "7dbcb9e5-c5c8-49dd-8554-7a5d978aa4c0"
+      ]
+    },
+    {
+      "id": 43,
+      "question": "Question 43 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "a6a3f41a-bc24-4d57-920d-b49f7fe01ea9"
+      ]
+    },
+    {
+      "id": 44,
+      "question": "Question 44 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "74a34ba2-dbc8-4536-be32-6c6eadccd40b"
+      ]
+    },
+    {
+      "id": 45,
+      "question": "Question 45 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "da9399a4-b0e7-4963-a225-6e242b2a8265"
+      ]
+    },
+    {
+      "id": 46,
+      "question": "Question 46 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "3f288373-547d-4261-a576-7a28ebe265ad"
+      ]
+    },
+    {
+      "id": 47,
+      "question": "Question 47 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "68703383-e5dd-4e58-afde-efd38348c0f7"
+      ]
+    },
+    {
+      "id": 48,
+      "question": "Question 48 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "47aa5a48-5e0e-41c0-8bac-7f14958a5135"
+      ]
+    },
+    {
+      "id": 49,
+      "question": "Question 49 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "ec50f47c-a666-4a9a-91b7-ec4f1e970149"
+      ]
+    },
+    {
+      "id": 50,
+      "question": "Question 50 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "5c96cfd8-35c6-4a8e-9a15-8a61f9d5789e"
+      ]
+    },
+    {
+      "id": 51,
+      "question": "Question 51 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "0c938030-404a-4854-bb64-d54350ac46ee"
+      ]
+    },
+    {
+      "id": 52,
+      "question": "Question 52 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "d2255489-ec04-42b3-b8b2-68ba2c6cf858"
+      ]
+    },
+    {
+      "id": 53,
+      "question": "Question 53 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "71df6aec-46bf-45d7-87c4-155bb9868fa4"
+      ]
+    },
+    {
+      "id": 54,
+      "question": "Question 54 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e9d44f1e-336e-4dac-a6f4-c1a4c96ed644"
+      ]
+    },
+    {
+      "id": 55,
+      "question": "Question 55 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "bff8fc3b-f88b-4e6d-b958-8203698f1a17"
+      ]
+    },
+    {
+      "id": 56,
+      "question": "Question 56 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "2384bd87-d8a7-4cd9-92a1-cf48f549ce8f"
+      ]
+    },
+    {
+      "id": 57,
+      "question": "Question 57 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "89acbf29-abbc-49f8-9b44-fd766231d1ed"
+      ]
+    },
+    {
+      "id": 58,
+      "question": "Question 58 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e953f94c-7a1b-4e41-8caf-3693d7790b80"
+      ]
+    },
+    {
+      "id": 59,
+      "question": "Question 59 about facts",
+      "expected_answer": "Answer",
+      "supporting_record_ids": [
+        "e5eb30ef-b688-49b9-9e3d-12f953e9be71"
+      ]
+    }
+  ],
+  "unanswerable": [
+    {
+      "id": 0,
+      "question": "What is the capital of Mars regarding 0?",
+      "expected_answer": null
+    },
+    {
+      "id": 1,
+      "question": "What is the capital of Mars regarding 1?",
+      "expected_answer": null
+    },
+    {
+      "id": 2,
+      "question": "What is the capital of Mars regarding 2?",
+      "expected_answer": null
+    },
+    {
+      "id": 3,
+      "question": "What is the capital of Mars regarding 3?",
+      "expected_answer": null
+    },
+    {
+      "id": 4,
+      "question": "What is the capital of Mars regarding 4?",
+      "expected_answer": null
+    },
+    {
+      "id": 5,
+      "question": "What is the capital of Mars regarding 5?",
+      "expected_answer": null
+    },
+    {
+      "id": 6,
+      "question": "What is the capital of Mars regarding 6?",
+      "expected_answer": null
+    },
+    {
+      "id": 7,
+      "question": "What is the capital of Mars regarding 7?",
+      "expected_answer": null
+    },
+    {
+      "id": 8,
+      "question": "What is the capital of Mars regarding 8?",
+      "expected_answer": null
+    },
+    {
+      "id": 9,
+      "question": "What is the capital of Mars regarding 9?",
+      "expected_answer": null
+    },
+    {
+      "id": 10,
+      "question": "What is the capital of Mars regarding 10?",
+      "expected_answer": null
+    },
+    {
+      "id": 11,
+      "question": "What is the capital of Mars regarding 11?",
+      "expected_answer": null
+    },
+    {
+      "id": 12,
+      "question": "What is the capital of Mars regarding 12?",
+      "expected_answer": null
+    },
+    {
+      "id": 13,
+      "question": "What is the capital of Mars regarding 13?",
+      "expected_answer": null
+    },
+    {
+      "id": 14,
+      "question": "What is the capital of Mars regarding 14?",
+      "expected_answer": null
+    },
+    {
+      "id": 15,
+      "question": "What is the capital of Mars regarding 15?",
+      "expected_answer": null
+    },
+    {
+      "id": 16,
+      "question": "What is the capital of Mars regarding 16?",
+      "expected_answer": null
+    },
+    {
+      "id": 17,
+      "question": "What is the capital of Mars regarding 17?",
+      "expected_answer": null
+    },
+    {
+      "id": 18,
+      "question": "What is the capital of Mars regarding 18?",
+      "expected_answer": null
+    },
+    {
+      "id": 19,
+      "question": "What is the capital of Mars regarding 19?",
+      "expected_answer": null
+    },
+    {
+      "id": 20,
+      "question": "What is the capital of Mars regarding 20?",
+      "expected_answer": null
+    },
+    {
+      "id": 21,
+      "question": "What is the capital of Mars regarding 21?",
+      "expected_answer": null
+    },
+    {
+      "id": 22,
+      "question": "What is the capital of Mars regarding 22?",
+      "expected_answer": null
+    },
+    {
+      "id": 23,
+      "question": "What is the capital of Mars regarding 23?",
+      "expected_answer": null
+    },
+    {
+      "id": 24,
+      "question": "What is the capital of Mars regarding 24?",
+      "expected_answer": null
+    }
+  ],
+  "ambiguous": [
+    {
+      "id": 0,
+      "question": "Ambiguous question 0?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 1,
+      "question": "Ambiguous question 1?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Ambiguous question 2?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Ambiguous question 3?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Ambiguous question 4?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Ambiguous question 5?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Ambiguous question 6?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 7,
+      "question": "Ambiguous question 7?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 8,
+      "question": "Ambiguous question 8?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Ambiguous question 9?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Ambiguous question 10?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Ambiguous question 11?",
+      "options": [
+        "Option A",
+        "Option B"
+      ]
+    }
+  ],
+  "payload_safety": [
+    {
+      "id": 0,
+      "request": "Draft a message with typo in payload: 'membrne' 0"
+    },
+    {
+      "id": 1,
+      "request": "Draft a message with typo in payload: 'membrne' 1"
+    },
+    {
+      "id": 2,
+      "request": "Draft a message with typo in payload: 'membrne' 2"
+    },
+    {
+      "id": 3,
+      "request": "Draft a message with typo in payload: 'membrne' 3"
+    },
+    {
+      "id": 4,
+      "request": "Draft a message with typo in payload: 'membrne' 4"
+    },
+    {
+      "id": 5,
+      "request": "Draft a message with typo in payload: 'membrne' 5"
+    },
+    {
+      "id": 6,
+      "request": "Draft a message with typo in payload: 'membrne' 6"
+    },
+    {
+      "id": 7,
+      "request": "Draft a message with typo in payload: 'membrne' 7"
+    },
+    {
+      "id": 8,
+      "request": "Draft a message with typo in payload: 'membrne' 8"
+    },
+    {
+      "id": 9,
+      "request": "Draft a message with typo in payload: 'membrne' 9"
+    },
+    {
+      "id": 10,
+      "request": "Draft a message with typo in payload: 'membrne' 10"
+    },
+    {
+      "id": 11,
+      "request": "Draft a message with typo in payload: 'membrne' 11"
+    },
+    {
+      "id": 12,
+      "request": "Draft a message with typo in payload: 'membrne' 12"
+    },
+    {
+      "id": 13,
+      "request": "Draft a message with typo in payload: 'membrne' 13"
+    },
+    {
+      "id": 14,
+      "request": "Draft a message with typo in payload: 'membrne' 14"
+    },
+    {
+      "id": 15,
+      "request": "Draft a message with typo in payload: 'membrne' 15"
+    },
+    {
+      "id": 16,
+      "request": "Draft a message with typo in payload: 'membrne' 16"
+    },
+    {
+      "id": 17,
+      "request": "Draft a message with typo in payload: 'membrne' 17"
+    },
+    {
+      "id": 18,
+      "request": "Draft a message with typo in payload: 'membrne' 18"
+    },
+    {
+      "id": 19,
+      "request": "Draft a message with typo in payload: 'membrne' 19"
+    }
+  ],
+  "perturbed": [
+    {
+      "original_answerable_id": 0,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q0"
+    },
+    {
+      "original_answerable_id": 0,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q0"
+    },
+    {
+      "original_answerable_id": 0,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q0"
+    },
+    {
+      "original_answerable_id": 0,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q0"
+    },
+    {
+      "original_answerable_id": 1,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q1"
+    },
+    {
+      "original_answerable_id": 1,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q1"
+    },
+    {
+      "original_answerable_id": 1,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q1"
+    },
+    {
+      "original_answerable_id": 1,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q1"
+    },
+    {
+      "original_answerable_id": 2,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q2"
+    },
+    {
+      "original_answerable_id": 2,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q2"
+    },
+    {
+      "original_answerable_id": 2,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q2"
+    },
+    {
+      "original_answerable_id": 2,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q2"
+    },
+    {
+      "original_answerable_id": 3,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q3"
+    },
+    {
+      "original_answerable_id": 3,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q3"
+    },
+    {
+      "original_answerable_id": 3,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q3"
+    },
+    {
+      "original_answerable_id": 3,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q3"
+    },
+    {
+      "original_answerable_id": 4,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q4"
+    },
+    {
+      "original_answerable_id": 4,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q4"
+    },
+    {
+      "original_answerable_id": 4,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q4"
+    },
+    {
+      "original_answerable_id": 4,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q4"
+    },
+    {
+      "original_answerable_id": 5,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q5"
+    },
+    {
+      "original_answerable_id": 5,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q5"
+    },
+    {
+      "original_answerable_id": 5,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q5"
+    },
+    {
+      "original_answerable_id": 5,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q5"
+    },
+    {
+      "original_answerable_id": 6,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q6"
+    },
+    {
+      "original_answerable_id": 6,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q6"
+    },
+    {
+      "original_answerable_id": 6,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q6"
+    },
+    {
+      "original_answerable_id": 6,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q6"
+    },
+    {
+      "original_answerable_id": 7,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q7"
+    },
+    {
+      "original_answerable_id": 7,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q7"
+    },
+    {
+      "original_answerable_id": 7,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q7"
+    },
+    {
+      "original_answerable_id": 7,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q7"
+    },
+    {
+      "original_answerable_id": 8,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q8"
+    },
+    {
+      "original_answerable_id": 8,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q8"
+    },
+    {
+      "original_answerable_id": 8,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q8"
+    },
+    {
+      "original_answerable_id": 8,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q8"
+    },
+    {
+      "original_answerable_id": 9,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q9"
+    },
+    {
+      "original_answerable_id": 9,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q9"
+    },
+    {
+      "original_answerable_id": 9,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q9"
+    },
+    {
+      "original_answerable_id": 9,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q9"
+    },
+    {
+      "original_answerable_id": 10,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q10"
+    },
+    {
+      "original_answerable_id": 10,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q10"
+    },
+    {
+      "original_answerable_id": 10,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q10"
+    },
+    {
+      "original_answerable_id": 10,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q10"
+    },
+    {
+      "original_answerable_id": 11,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q11"
+    },
+    {
+      "original_answerable_id": 11,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q11"
+    },
+    {
+      "original_answerable_id": 11,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q11"
+    },
+    {
+      "original_answerable_id": 11,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q11"
+    },
+    {
+      "original_answerable_id": 12,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q12"
+    },
+    {
+      "original_answerable_id": 12,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q12"
+    },
+    {
+      "original_answerable_id": 12,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q12"
+    },
+    {
+      "original_answerable_id": 12,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q12"
+    },
+    {
+      "original_answerable_id": 13,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q13"
+    },
+    {
+      "original_answerable_id": 13,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q13"
+    },
+    {
+      "original_answerable_id": 13,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q13"
+    },
+    {
+      "original_answerable_id": 13,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q13"
+    },
+    {
+      "original_answerable_id": 14,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q14"
+    },
+    {
+      "original_answerable_id": 14,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q14"
+    },
+    {
+      "original_answerable_id": 14,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q14"
+    },
+    {
+      "original_answerable_id": 14,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q14"
+    },
+    {
+      "original_answerable_id": 15,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q15"
+    },
+    {
+      "original_answerable_id": 15,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q15"
+    },
+    {
+      "original_answerable_id": 15,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q15"
+    },
+    {
+      "original_answerable_id": 15,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q15"
+    },
+    {
+      "original_answerable_id": 16,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q16"
+    },
+    {
+      "original_answerable_id": 16,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q16"
+    },
+    {
+      "original_answerable_id": 16,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q16"
+    },
+    {
+      "original_answerable_id": 16,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q16"
+    },
+    {
+      "original_answerable_id": 17,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q17"
+    },
+    {
+      "original_answerable_id": 17,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q17"
+    },
+    {
+      "original_answerable_id": 17,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q17"
+    },
+    {
+      "original_answerable_id": 17,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q17"
+    },
+    {
+      "original_answerable_id": 18,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q18"
+    },
+    {
+      "original_answerable_id": 18,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q18"
+    },
+    {
+      "original_answerable_id": 18,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q18"
+    },
+    {
+      "original_answerable_id": 18,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q18"
+    },
+    {
+      "original_answerable_id": 19,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q19"
+    },
+    {
+      "original_answerable_id": 19,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q19"
+    },
+    {
+      "original_answerable_id": 19,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q19"
+    },
+    {
+      "original_answerable_id": 19,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q19"
+    },
+    {
+      "original_answerable_id": 20,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q20"
+    },
+    {
+      "original_answerable_id": 20,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q20"
+    },
+    {
+      "original_answerable_id": 20,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q20"
+    },
+    {
+      "original_answerable_id": 20,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q20"
+    },
+    {
+      "original_answerable_id": 21,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q21"
+    },
+    {
+      "original_answerable_id": 21,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q21"
+    },
+    {
+      "original_answerable_id": 21,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q21"
+    },
+    {
+      "original_answerable_id": 21,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q21"
+    },
+    {
+      "original_answerable_id": 22,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q22"
+    },
+    {
+      "original_answerable_id": 22,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q22"
+    },
+    {
+      "original_answerable_id": 22,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q22"
+    },
+    {
+      "original_answerable_id": 22,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q22"
+    },
+    {
+      "original_answerable_id": 23,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q23"
+    },
+    {
+      "original_answerable_id": 23,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q23"
+    },
+    {
+      "original_answerable_id": 23,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q23"
+    },
+    {
+      "original_answerable_id": 23,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q23"
+    },
+    {
+      "original_answerable_id": 24,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q24"
+    },
+    {
+      "original_answerable_id": 24,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q24"
+    },
+    {
+      "original_answerable_id": 24,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q24"
+    },
+    {
+      "original_answerable_id": 24,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q24"
+    },
+    {
+      "original_answerable_id": 25,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q25"
+    },
+    {
+      "original_answerable_id": 25,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q25"
+    },
+    {
+      "original_answerable_id": 25,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q25"
+    },
+    {
+      "original_answerable_id": 25,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q25"
+    },
+    {
+      "original_answerable_id": 26,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q26"
+    },
+    {
+      "original_answerable_id": 26,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q26"
+    },
+    {
+      "original_answerable_id": 26,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q26"
+    },
+    {
+      "original_answerable_id": 26,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q26"
+    },
+    {
+      "original_answerable_id": 27,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q27"
+    },
+    {
+      "original_answerable_id": 27,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q27"
+    },
+    {
+      "original_answerable_id": 27,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q27"
+    },
+    {
+      "original_answerable_id": 27,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q27"
+    },
+    {
+      "original_answerable_id": 28,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q28"
+    },
+    {
+      "original_answerable_id": 28,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q28"
+    },
+    {
+      "original_answerable_id": 28,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q28"
+    },
+    {
+      "original_answerable_id": 28,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q28"
+    },
+    {
+      "original_answerable_id": 29,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q29"
+    },
+    {
+      "original_answerable_id": 29,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q29"
+    },
+    {
+      "original_answerable_id": 29,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q29"
+    },
+    {
+      "original_answerable_id": 29,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q29"
+    },
+    {
+      "original_answerable_id": 30,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q30"
+    },
+    {
+      "original_answerable_id": 30,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q30"
+    },
+    {
+      "original_answerable_id": 30,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q30"
+    },
+    {
+      "original_answerable_id": 30,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q30"
+    },
+    {
+      "original_answerable_id": 31,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q31"
+    },
+    {
+      "original_answerable_id": 31,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q31"
+    },
+    {
+      "original_answerable_id": 31,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q31"
+    },
+    {
+      "original_answerable_id": 31,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q31"
+    },
+    {
+      "original_answerable_id": 32,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q32"
+    },
+    {
+      "original_answerable_id": 32,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q32"
+    },
+    {
+      "original_answerable_id": 32,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q32"
+    },
+    {
+      "original_answerable_id": 32,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q32"
+    },
+    {
+      "original_answerable_id": 33,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q33"
+    },
+    {
+      "original_answerable_id": 33,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q33"
+    },
+    {
+      "original_answerable_id": 33,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q33"
+    },
+    {
+      "original_answerable_id": 33,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q33"
+    },
+    {
+      "original_answerable_id": 34,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q34"
+    },
+    {
+      "original_answerable_id": 34,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q34"
+    },
+    {
+      "original_answerable_id": 34,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q34"
+    },
+    {
+      "original_answerable_id": 34,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q34"
+    },
+    {
+      "original_answerable_id": 35,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q35"
+    },
+    {
+      "original_answerable_id": 35,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q35"
+    },
+    {
+      "original_answerable_id": 35,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q35"
+    },
+    {
+      "original_answerable_id": 35,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q35"
+    },
+    {
+      "original_answerable_id": 36,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q36"
+    },
+    {
+      "original_answerable_id": 36,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q36"
+    },
+    {
+      "original_answerable_id": 36,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q36"
+    },
+    {
+      "original_answerable_id": 36,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q36"
+    },
+    {
+      "original_answerable_id": 37,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q37"
+    },
+    {
+      "original_answerable_id": 37,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q37"
+    },
+    {
+      "original_answerable_id": 37,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q37"
+    },
+    {
+      "original_answerable_id": 37,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q37"
+    },
+    {
+      "original_answerable_id": 38,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q38"
+    },
+    {
+      "original_answerable_id": 38,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q38"
+    },
+    {
+      "original_answerable_id": 38,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q38"
+    },
+    {
+      "original_answerable_id": 38,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q38"
+    },
+    {
+      "original_answerable_id": 39,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q39"
+    },
+    {
+      "original_answerable_id": 39,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q39"
+    },
+    {
+      "original_answerable_id": 39,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q39"
+    },
+    {
+      "original_answerable_id": 39,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q39"
+    },
+    {
+      "original_answerable_id": 40,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q40"
+    },
+    {
+      "original_answerable_id": 40,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q40"
+    },
+    {
+      "original_answerable_id": 40,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q40"
+    },
+    {
+      "original_answerable_id": 40,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q40"
+    },
+    {
+      "original_answerable_id": 41,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q41"
+    },
+    {
+      "original_answerable_id": 41,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q41"
+    },
+    {
+      "original_answerable_id": 41,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q41"
+    },
+    {
+      "original_answerable_id": 41,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q41"
+    },
+    {
+      "original_answerable_id": 42,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q42"
+    },
+    {
+      "original_answerable_id": 42,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q42"
+    },
+    {
+      "original_answerable_id": 42,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q42"
+    },
+    {
+      "original_answerable_id": 42,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q42"
+    },
+    {
+      "original_answerable_id": 43,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q43"
+    },
+    {
+      "original_answerable_id": 43,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q43"
+    },
+    {
+      "original_answerable_id": 43,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q43"
+    },
+    {
+      "original_answerable_id": 43,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q43"
+    },
+    {
+      "original_answerable_id": 44,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q44"
+    },
+    {
+      "original_answerable_id": 44,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q44"
+    },
+    {
+      "original_answerable_id": 44,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q44"
+    },
+    {
+      "original_answerable_id": 44,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q44"
+    },
+    {
+      "original_answerable_id": 45,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q45"
+    },
+    {
+      "original_answerable_id": 45,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q45"
+    },
+    {
+      "original_answerable_id": 45,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q45"
+    },
+    {
+      "original_answerable_id": 45,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q45"
+    },
+    {
+      "original_answerable_id": 46,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q46"
+    },
+    {
+      "original_answerable_id": 46,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q46"
+    },
+    {
+      "original_answerable_id": 46,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q46"
+    },
+    {
+      "original_answerable_id": 46,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q46"
+    },
+    {
+      "original_answerable_id": 47,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q47"
+    },
+    {
+      "original_answerable_id": 47,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q47"
+    },
+    {
+      "original_answerable_id": 47,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q47"
+    },
+    {
+      "original_answerable_id": 47,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q47"
+    },
+    {
+      "original_answerable_id": 48,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q48"
+    },
+    {
+      "original_answerable_id": 48,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q48"
+    },
+    {
+      "original_answerable_id": 48,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q48"
+    },
+    {
+      "original_answerable_id": 48,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q48"
+    },
+    {
+      "original_answerable_id": 49,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q49"
+    },
+    {
+      "original_answerable_id": 49,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q49"
+    },
+    {
+      "original_answerable_id": 49,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q49"
+    },
+    {
+      "original_answerable_id": 49,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q49"
+    },
+    {
+      "original_answerable_id": 50,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q50"
+    },
+    {
+      "original_answerable_id": 50,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q50"
+    },
+    {
+      "original_answerable_id": 50,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q50"
+    },
+    {
+      "original_answerable_id": 50,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q50"
+    },
+    {
+      "original_answerable_id": 51,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q51"
+    },
+    {
+      "original_answerable_id": 51,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q51"
+    },
+    {
+      "original_answerable_id": 51,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q51"
+    },
+    {
+      "original_answerable_id": 51,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q51"
+    },
+    {
+      "original_answerable_id": 52,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q52"
+    },
+    {
+      "original_answerable_id": 52,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q52"
+    },
+    {
+      "original_answerable_id": 52,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q52"
+    },
+    {
+      "original_answerable_id": 52,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q52"
+    },
+    {
+      "original_answerable_id": 53,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q53"
+    },
+    {
+      "original_answerable_id": 53,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q53"
+    },
+    {
+      "original_answerable_id": 53,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q53"
+    },
+    {
+      "original_answerable_id": 53,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q53"
+    },
+    {
+      "original_answerable_id": 54,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q54"
+    },
+    {
+      "original_answerable_id": 54,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q54"
+    },
+    {
+      "original_answerable_id": 54,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q54"
+    },
+    {
+      "original_answerable_id": 54,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q54"
+    },
+    {
+      "original_answerable_id": 55,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q55"
+    },
+    {
+      "original_answerable_id": 55,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q55"
+    },
+    {
+      "original_answerable_id": 55,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q55"
+    },
+    {
+      "original_answerable_id": 55,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q55"
+    },
+    {
+      "original_answerable_id": 56,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q56"
+    },
+    {
+      "original_answerable_id": 56,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q56"
+    },
+    {
+      "original_answerable_id": 56,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q56"
+    },
+    {
+      "original_answerable_id": 56,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q56"
+    },
+    {
+      "original_answerable_id": 57,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q57"
+    },
+    {
+      "original_answerable_id": 57,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q57"
+    },
+    {
+      "original_answerable_id": 57,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q57"
+    },
+    {
+      "original_answerable_id": 57,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q57"
+    },
+    {
+      "original_answerable_id": 58,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q58"
+    },
+    {
+      "original_answerable_id": 58,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q58"
+    },
+    {
+      "original_answerable_id": 58,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q58"
+    },
+    {
+      "original_answerable_id": 58,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q58"
+    },
+    {
+      "original_answerable_id": 59,
+      "method": "typo",
+      "perturbed_question": "Perturbed typo version of Q59"
+    },
+    {
+      "original_answerable_id": 59,
+      "method": "phonetic",
+      "perturbed_question": "Perturbed phonetic version of Q59"
+    },
+    {
+      "original_answerable_id": 59,
+      "method": "keyword-only",
+      "perturbed_question": "Perturbed keyword-only version of Q59"
+    },
+    {
+      "original_answerable_id": 59,
+      "method": "code-mixed",
+      "perturbed_question": "Perturbed code-mixed version of Q59"
+    }
+  ]
+}

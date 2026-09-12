@@ -1,0 +1,6002 @@
+[
+  {
+    "id": "92840824-08bc-45a4-85ca-e318611b28b4",
+    "occurred_at": "2026-05-08T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f13a2892"
+    },
+    "raw_asr": "ravi worrying about lab safety 57",
+    "formatted_text": "Ravi is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "4c3f45bb-5c9b-4f83-9d2b-5c83e676577e",
+    "occurred_at": "2026-05-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "beb34156"
+    },
+    "raw_asr": "priya submitting hostel issues 45",
+    "formatted_text": "Priya is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "89e3b681-97d9-4110-97e4-cc1c37a721fa",
+    "occurred_at": "2026-08-08T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "8da66e00"
+    },
+    "raw_asr": "kiran discussing hostel issues 30",
+    "formatted_text": "Kiran is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b0860820-433f-4b20-9f7b-d15c5a5d13b9",
+    "occurred_at": "2026-05-28T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "5d76471a"
+    },
+    "raw_asr": "ravi checking CRE assignment 55",
+    "formatted_text": "Ravi is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ee8571ac-3635-4950-b441-8c521b1e117f",
+    "occurred_at": "2026-05-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "a0f46be5"
+    },
+    "raw_asr": "ravi forgetting hostel issues 91",
+    "formatted_text": "Ravi is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "01b4d47f-f810-450d-82c9-1e205ee558f3",
+    "occurred_at": "2026-07-25T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "995c2542"
+    },
+    "raw_asr": "ravi checking placement process 66",
+    "formatted_text": "Ravi is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "01011ec1-115b-4089-a91b-c7b57a0be695",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f7918fa2"
+    },
+    "raw_asr": "priya worrying about hostel issues 100",
+    "formatted_text": "Priya is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "a274eca5-2d94-4d6b-80be-678f99cd23fc",
+    "occurred_at": "2026-07-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "df28b655"
+    },
+    "raw_asr": "priya worrying about membrane separation 97",
+    "formatted_text": "Priya is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "6da9b7e9-d823-4191-bf6a-ec8eedda9445",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "96999eaa"
+    },
+    "raw_asr": "pritha forgetting membrain separation 71",
+    "formatted_text": "Pritha is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "fc4c8a0f-5ad2-46c7-9d0a-a86d0e164e26",
+    "occurred_at": "2026-07-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "edccd033"
+    },
+    "raw_asr": "suresh checking membrane separation 51",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ff69470c-1bf4-433a-8b27-1e886e10f6ef",
+    "occurred_at": "2026-06-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "107aec0c"
+    },
+    "raw_asr": "pritha discussing CRE assignment 98",
+    "formatted_text": "Pritha is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "d359dad0-26a9-4ed1-ac94-e9dfa3f3d5be",
+    "occurred_at": "2026-05-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "545ffd3b"
+    },
+    "raw_asr": "priya checking lab safety 37",
+    "formatted_text": "Priya is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "be6483a1-6fe2-4f6f-b938-fcb6c5a6e4ad",
+    "occurred_at": "2026-06-11T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c4986c94"
+    },
+    "raw_asr": "kiran forgetting hostel issues 87",
+    "formatted_text": "Kiran is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "06e276c4-b0ad-43df-a3ec-93785b2996cb",
+    "occurred_at": "2026-07-24T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "098d240c"
+    },
+    "raw_asr": "pritha discussing membrane separation 75",
+    "formatted_text": "Pritha is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "7b7e4f91-d727-49ee-9c83-885c590ea172",
+    "occurred_at": "2026-06-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "fc09d0e7"
+    },
+    "raw_asr": "suresh submitting hostel issues 5",
+    "formatted_text": "Suresh is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "32a31aa0-848f-4286-8560-7c7f003f6b48",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "67c40604"
+    },
+    "raw_asr": "priya worrying about lab safety 90",
+    "formatted_text": "Priya is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "325b89e3-2c31-4b56-9a9e-9a78c711556c",
+    "occurred_at": "2026-07-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "dafe6e04"
+    },
+    "raw_asr": "ravi submitting CRE assignment 35",
+    "formatted_text": "Ravi is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "850116b1-8e8e-40ca-9118-76c72078032e",
+    "occurred_at": "2026-08-20T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "7eb6b6cc"
+    },
+    "raw_asr": "pritha discussing lab safety 23",
+    "formatted_text": "Pritha is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "8eaf7fda-006a-46fd-8c55-e10779d915d0",
+    "occurred_at": "2026-06-03T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "c27a1af4"
+    },
+    "raw_asr": "priya forgetting hostel issues 37",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "254eac42-fb86-4ba5-95aa-fd9ec65257da",
+    "occurred_at": "2026-06-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "8e5e56d8"
+    },
+    "raw_asr": "ravi worrying about membrane separation 31",
+    "formatted_text": "Ravi is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "6280ebe4-79f8-42c1-bd1b-e8eb1f68bbfc",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "b9c6311f"
+    },
+    "raw_asr": "priya worrying about lab safety 6",
+    "formatted_text": "Priya is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "cfc4dad5-67c7-47f0-a989-40d4c42dddc4",
+    "occurred_at": "2026-08-15T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e40058b1"
+    },
+    "raw_asr": "suresh submitting membrain separation 100",
+    "formatted_text": "Suresh is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "623b040d-67a3-4d48-9e77-4ef11ba8ffca",
+    "occurred_at": "2026-07-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "62523760"
+    },
+    "raw_asr": "pritha checking lab safety 85",
+    "formatted_text": "Pritha is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "1ada8e61-00ec-493c-8f98-bbadb4e8457e",
+    "occurred_at": "2026-08-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "ff976c8a"
+    },
+    "raw_asr": "prof. varghese submitting placement process 65",
+    "formatted_text": "Prof. Varghese is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "077bfe17-54e9-4b50-be68-b66d5ba91d80",
+    "occurred_at": "2026-06-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "e776380d"
+    },
+    "raw_asr": "kiran forgetting membrain separation 97",
+    "formatted_text": "Kiran is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "eaeaf4b5-4b6e-44c2-9d45-d6eb957dde1b",
+    "occurred_at": "2026-06-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "636eef2a"
+    },
+    "raw_asr": "prof. varghese checking membrain separation 31",
+    "formatted_text": "Prof. Varghese is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "0f831e34-ee8c-495a-ae76-6f2cf27e5d6f",
+    "occurred_at": "2026-05-04T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "36a75c6d"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 47",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "e203ef09-d747-4961-a953-f18d69fb74ce",
+    "occurred_at": "2026-06-01T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "21395b5d"
+    },
+    "raw_asr": "suresh discussing lab safety 31",
+    "formatted_text": "Suresh is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "071d6bb9-9a73-471d-9232-1cd1c2a184da",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "c96e44a0"
+    },
+    "raw_asr": "suresh submitting lab safety 54",
+    "formatted_text": "Suresh is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "117125f2-eae0-4a69-9430-20b868394649",
+    "occurred_at": "2026-06-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "12b639a1"
+    },
+    "raw_asr": "ravi worrying about membrane separation 56",
+    "formatted_text": "Ravi is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "39225df5-3f57-4544-9e27-c812dfe22d37",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "b66cc75d"
+    },
+    "raw_asr": "pritha worrying about hostel issues 18",
+    "formatted_text": "Pritha is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "2e4347b4-5ad3-4562-9bfc-019c33096bdb",
+    "occurred_at": "2026-05-14T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "2b3d5477"
+    },
+    "raw_asr": "prof. varghese forgetting placement process 94",
+    "formatted_text": "Prof. Varghese is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "696734dc-2f10-42ab-9f5c-4bb007149566",
+    "occurred_at": "2026-06-03T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "147c8a79"
+    },
+    "raw_asr": "priya forgetting placement process 3",
+    "formatted_text": "Priya is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "657103f6-07a6-485d-9e76-d5d893d6023c",
+    "occurred_at": "2026-06-15T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "9b34606f"
+    },
+    "raw_asr": "priya forgetting membrain separation 92",
+    "formatted_text": "Priya is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "3e8e0064-5ba2-468b-9eeb-b1524425dfa1",
+    "occurred_at": "2026-05-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "583a4108"
+    },
+    "raw_asr": "priya forgetting hostel issues 27",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d8c455cb-3a62-4f21-9512-362408ad7128",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "dcdd66dd"
+    },
+    "raw_asr": "kiran forgetting placement process 94",
+    "formatted_text": "Kiran is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "8533f70f-0163-4dcd-a11a-0a41231f9c03",
+    "occurred_at": "2026-05-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "d2005219"
+    },
+    "raw_asr": "priya forgetting hostel issues 60",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "bdf80f58-08d2-438e-b958-4df672e10677",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "82fabb4c"
+    },
+    "raw_asr": "pritha worrying about membrain separation 37",
+    "formatted_text": "Pritha is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "36f8af5b-9359-44d1-8d9b-83ecb135f282",
+    "occurred_at": "2026-07-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "0d338166"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 62",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "67ef02a1-9c3d-498b-8f25-8944c59cb28f",
+    "occurred_at": "2026-05-20T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "027f9e33"
+    },
+    "raw_asr": "suresh discussing membrane separation 78",
+    "formatted_text": "Suresh is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "dfbc4f31-3fcb-469a-bfec-0a0513ac7023",
+    "occurred_at": "2026-05-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "66ca7e2c"
+    },
+    "raw_asr": "pritha forgetting hostel issues 12",
+    "formatted_text": "Pritha is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d030b11d-1950-41de-96eb-e3b6fd068740",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "ced7f3b1"
+    },
+    "raw_asr": "pritha forgetting placement process 10",
+    "formatted_text": "Pritha is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "1559da17-1952-4454-a932-5caaa626ceef",
+    "occurred_at": "2026-07-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "9e49e72c"
+    },
+    "raw_asr": "kiran discussing placement process 14",
+    "formatted_text": "Kiran is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "cc60f79d-1519-498a-b9cc-ebdcb9bca5b3",
+    "occurred_at": "2026-05-31T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "626908bf"
+    },
+    "raw_asr": "kiran submitting hostel issues 13",
+    "formatted_text": "Kiran is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "8d2b21f6-afff-4cd7-b0a0-13178ac50e4a",
+    "occurred_at": "2026-08-08T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "49b720f0"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 89",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "927695a0-e062-4f17-898f-f796f74f738e",
+    "occurred_at": "2026-06-19T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "ee6be7af"
+    },
+    "raw_asr": "pritha submitting placement process 76",
+    "formatted_text": "Pritha is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "aac08d1e-29c4-4921-bbed-1c285f4faf98",
+    "occurred_at": "2026-07-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "d2bb5e61"
+    },
+    "raw_asr": "ravi discussing placement process 98",
+    "formatted_text": "Ravi is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "76daa1c4-6b26-49fa-8c6c-8b4befd36f46",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "91110eb0"
+    },
+    "raw_asr": "priya worrying about CRE assignment 28",
+    "formatted_text": "Priya is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "66ed04f1-c296-49ed-bab8-d137c8d40613",
+    "occurred_at": "2026-07-17T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "4f229923"
+    },
+    "raw_asr": "suresh forgetting lab safety 59",
+    "formatted_text": "Suresh is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "d2ed88fb-e083-4c81-bf0f-185f3a79a2eb",
+    "occurred_at": "2026-06-24T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "4dab44dd"
+    },
+    "raw_asr": "prof. varghese forgetting hostel issues 79",
+    "formatted_text": "Prof. Varghese is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "67ac935a-1387-47ed-91e6-a3f166bd5e03",
+    "occurred_at": "2026-08-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "d8d2fb8d"
+    },
+    "raw_asr": "priya worrying about membrane separation 13",
+    "formatted_text": "Priya is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "5745f385-32f6-4926-87bd-75a89a0122e1",
+    "occurred_at": "2026-07-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "7417b650"
+    },
+    "raw_asr": "suresh discussing CRE assignment 62",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "303f4983-1938-43db-8565-d145ae5d3285",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "cecfc7c3"
+    },
+    "raw_asr": "prof. varghese forgetting membrane separation 29",
+    "formatted_text": "Prof. Varghese is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "7febbd5c-5f12-474d-a19b-d689c910556e",
+    "occurred_at": "2026-05-27T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "f3afcf23"
+    },
+    "raw_asr": "kiran forgetting placement process 14",
+    "formatted_text": "Kiran is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "fcfcb3a2-929b-4350-9a98-e0df9555efc6",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "69ffb3f4"
+    },
+    "raw_asr": "ravi worrying about hostel issues 9",
+    "formatted_text": "Ravi is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "34bad927-3679-47bc-ba53-56c9df8af2bb",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "caa9ce45"
+    },
+    "raw_asr": "suresh forgetting placement process 98",
+    "formatted_text": "Suresh is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "ff85d55e-0c21-493e-9382-854b5dac3210",
+    "occurred_at": "2026-05-03T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "163f872c"
+    },
+    "raw_asr": "kiran discussing CRE assignment 56",
+    "formatted_text": "Kiran is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "9b3e6e78-a977-49fa-94db-3c5e7d3889ef",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "f46b8b98"
+    },
+    "raw_asr": "suresh worrying about lab safety 12",
+    "formatted_text": "Suresh is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "605211c4-cfaf-41bc-873a-a7fc5f2dbc42",
+    "occurred_at": "2026-08-19T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "0a048b46"
+    },
+    "raw_asr": "pritha worrying about membrane separation 1",
+    "formatted_text": "Pritha is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "3a568e08-8454-4043-b21e-1087063cc3de",
+    "occurred_at": "2026-07-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "0bf8ab92"
+    },
+    "raw_asr": "suresh submitting placement process 91",
+    "formatted_text": "Suresh is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "030c6c49-4f55-46aa-8f9a-8ad165b2a067",
+    "occurred_at": "2026-07-04T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "d8d3624a"
+    },
+    "raw_asr": "ravi forgetting CRE assignment 35",
+    "formatted_text": "Ravi is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "23a737fe-192b-4fdc-a235-ced472186f24",
+    "occurred_at": "2026-06-10T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "d7b1a62d"
+    },
+    "raw_asr": "ravi forgetting hostel issues 47",
+    "formatted_text": "Ravi is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b6f9cb83-e4d0-46df-96eb-7a8e96cf95c4",
+    "occurred_at": "2026-08-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "28d5f243"
+    },
+    "raw_asr": "prof. varghese checking membrane separation 70",
+    "formatted_text": "Prof. Varghese is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "bc1e3289-4150-4d07-b899-be2ad948bf6c",
+    "occurred_at": "2026-05-18T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "17f2bdb3"
+    },
+    "raw_asr": "suresh discussing CRE assignment 2",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ce3820db-c033-46d4-93c6-c63ba2ffd18c",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "2dc41d54"
+    },
+    "raw_asr": "priya forgetting CRE assignment 30",
+    "formatted_text": "Priya is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "d102e106-4ebf-4c37-815d-4d2260f99762",
+    "occurred_at": "2026-07-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "a1ae9d85"
+    },
+    "raw_asr": "suresh discussing membrane separation 39",
+    "formatted_text": "Suresh is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8232577e-16e3-4172-afe9-a9d2a102371a",
+    "occurred_at": "2026-05-01T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "74cb5d13"
+    },
+    "raw_asr": "kiran forgetting hostel issues 75",
+    "formatted_text": "Kiran is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "309b8a56-95e5-43d6-8abd-18e2d906c605",
+    "occurred_at": "2026-07-16T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "9726cdb6"
+    },
+    "raw_asr": "ravi checking placement process 91",
+    "formatted_text": "Ravi is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "14d79820-c3d9-4d91-a786-110ae14f0990",
+    "occurred_at": "2026-08-13T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "b6a899bc"
+    },
+    "raw_asr": "suresh submitting membrain separation 51",
+    "formatted_text": "Suresh is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "c36362c7-ad3e-4c12-a3a8-463ee6fdfca1",
+    "occurred_at": "2026-07-27T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "e0e56ddc"
+    },
+    "raw_asr": "priya forgetting hostel issues 9",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "93fa5ffb-4cd3-4de9-9b03-794a3d836def",
+    "occurred_at": "2026-07-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "785195e3"
+    },
+    "raw_asr": "kiran worrying about lab safety 100",
+    "formatted_text": "Kiran is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "d7de4919-3c3a-4151-998e-6deaa047d14c",
+    "occurred_at": "2026-05-26T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "bce64754"
+    },
+    "raw_asr": "priya submitting membrane separation 92",
+    "formatted_text": "Priya is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "63a25b2e-145b-4509-b43a-f17cc8973617",
+    "occurred_at": "2026-07-11T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0b560e09"
+    },
+    "raw_asr": "suresh discussing membrain separation 59",
+    "formatted_text": "Suresh is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4a2794d7-9153-43a8-ae3c-01fd4387dfcd",
+    "occurred_at": "2026-08-24T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "7112911a"
+    },
+    "raw_asr": "pritha worrying about lab safety 45",
+    "formatted_text": "Pritha is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "b6ee65e5-05d1-462c-aab5-f742b42738cc",
+    "occurred_at": "2026-07-17T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c94ba226"
+    },
+    "raw_asr": "kiran submitting hostel issues 81",
+    "formatted_text": "Kiran is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "380e1798-3b51-4fd8-a035-5306f3d23444",
+    "occurred_at": "2026-06-11T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "9086b88b"
+    },
+    "raw_asr": "priya submitting placement process 75",
+    "formatted_text": "Priya is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e0c8bb5f-6997-415b-885e-a34910a94cbe",
+    "occurred_at": "2026-08-27T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "7f432e13"
+    },
+    "raw_asr": "kiran forgetting placement process 47",
+    "formatted_text": "Kiran is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "3294f30c-5ec8-4daa-8640-f0e995b43d9f",
+    "occurred_at": "2026-08-19T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "132a770f"
+    },
+    "raw_asr": "kiran worrying about hostel issues 58",
+    "formatted_text": "Kiran is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "e6b5cea5-95ac-4226-865e-8c8080f42da9",
+    "occurred_at": "2026-08-17T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "4560e331"
+    },
+    "raw_asr": "kiran forgetting lab safety 28",
+    "formatted_text": "Kiran is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "318db276-00d8-4bd2-a10c-2e0bf3f00243",
+    "occurred_at": "2026-08-13T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "66e58c68"
+    },
+    "raw_asr": "prof. varghese forgetting lab safety 59",
+    "formatted_text": "Prof. Varghese is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "f3be7c82-6c4e-4d32-b28e-1d0fac2a64fe",
+    "occurred_at": "2026-07-25T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "4a6700d9"
+    },
+    "raw_asr": "pritha worrying about hostel issues 79",
+    "formatted_text": "Pritha is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "7eb38a7f-3538-471b-8b5d-bb00d073045c",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "072aa9af"
+    },
+    "raw_asr": "suresh forgetting placement process 23",
+    "formatted_text": "Suresh is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "8c859585-5cf7-4a77-9a7e-f3b926eb1c2f",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "5439c4e8"
+    },
+    "raw_asr": "kiran worrying about CRE assignment 17",
+    "formatted_text": "Kiran is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "a289125b-25b1-4960-9bb2-15d837a150a2",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "b098aecf"
+    },
+    "raw_asr": "priya worrying about placement process 41",
+    "formatted_text": "Priya is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "2ef4903c-841b-43d3-b751-0ccda5cd102b",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0bb178d6"
+    },
+    "raw_asr": "pritha forgetting placement process 78",
+    "formatted_text": "Pritha is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "cc2132f2-9a2e-4b50-ad9e-06fdc23094d2",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "32e379b2"
+    },
+    "raw_asr": "priya worrying about membrane separation 48",
+    "formatted_text": "Priya is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8fe1e765-d146-43be-8ab7-32e12c09ab2e",
+    "occurred_at": "2026-05-11T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "02a00745"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 25",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "e4c1a106-b00c-48d4-91e8-f072b989c3dd",
+    "occurred_at": "2026-08-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "c0cb154d"
+    },
+    "raw_asr": "ravi checking placement process 73",
+    "formatted_text": "Ravi is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "828954a2-8fa0-4600-b6d9-0d152c65c8b2",
+    "occurred_at": "2026-07-24T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "b00ef507"
+    },
+    "raw_asr": "kiran discussing lab safety 30",
+    "formatted_text": "Kiran is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "668f5781-2786-49c5-9c3a-b8303108afd8",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0b2c0570"
+    },
+    "raw_asr": "pritha worrying about membrane separation 70",
+    "formatted_text": "Pritha is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "9add055a-230a-49ff-83f0-54dee8e5591e",
+    "occurred_at": "2026-06-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "6470c34b"
+    },
+    "raw_asr": "ravi discussing membrain separation 97",
+    "formatted_text": "Ravi is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "84ba709f-f833-44b8-9e9b-84966893fdf0",
+    "occurred_at": "2026-07-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "0931da22"
+    },
+    "raw_asr": "pritha worrying about lab safety 41",
+    "formatted_text": "Pritha is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "ea19d7dc-3d59-49ad-8246-af0a7d5a0e70",
+    "occurred_at": "2026-06-01T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "123cfe6c"
+    },
+    "raw_asr": "priya checking CRE assignment 64",
+    "formatted_text": "Priya is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "83926208-6256-4170-98a3-f56d4f45186a",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "d8ea51eb"
+    },
+    "raw_asr": "priya submitting membrain separation 79",
+    "formatted_text": "Priya is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "1dbd96e5-66f3-4b9a-b14b-44d2dce457de",
+    "occurred_at": "2026-05-04T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f6ba35b9"
+    },
+    "raw_asr": "pritha discussing placement process 20",
+    "formatted_text": "Pritha is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "577af7a9-88a2-4354-ace3-bf6fa5324f59",
+    "occurred_at": "2026-06-11T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "9d755693"
+    },
+    "raw_asr": "prof. varghese submitting hostel issues 100",
+    "formatted_text": "Prof. Varghese is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "0966352b-36af-425b-b0c6-6b059344f721",
+    "occurred_at": "2026-06-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "0dd89dc7"
+    },
+    "raw_asr": "prof. varghese forgetting placement process 20",
+    "formatted_text": "Prof. Varghese is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "52db0171-699f-4285-a270-9e07f1a7d797",
+    "occurred_at": "2026-07-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "4edae1c0"
+    },
+    "raw_asr": "priya submitting CRE assignment 62",
+    "formatted_text": "Priya is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ec754b40-a08e-4cf9-93b7-82c197a584a7",
+    "occurred_at": "2026-06-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "615f5ae8"
+    },
+    "raw_asr": "prof. varghese forgetting membrane separation 81",
+    "formatted_text": "Prof. Varghese is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8f925495-a78d-4efc-9723-57ab442f4ddd",
+    "occurred_at": "2026-06-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "a801746a"
+    },
+    "raw_asr": "priya discussing placement process 71",
+    "formatted_text": "Priya is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "cca85fba-9dfa-415a-8ff8-6366f5cc5113",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "753ecd6e"
+    },
+    "raw_asr": "priya worrying about placement process 71",
+    "formatted_text": "Priya is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e1589c70-2bc1-4c98-baa7-c28b732efafd",
+    "occurred_at": "2026-07-17T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "11f13818"
+    },
+    "raw_asr": "suresh submitting hostel issues 84",
+    "formatted_text": "Suresh is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "5968078b-df84-43c5-9c1d-95dfcb2c8ab3",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "7bc98b3a"
+    },
+    "raw_asr": "kiran submitting CRE assignment 11",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "e38addc9-686b-4dff-b07b-640fc12dec64",
+    "occurred_at": "2026-08-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "410f5604"
+    },
+    "raw_asr": "kiran discussing CRE assignment 47",
+    "formatted_text": "Kiran is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "5e053748-1164-4e71-9f67-c527175232c1",
+    "occurred_at": "2026-05-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "94020bfc"
+    },
+    "raw_asr": "suresh forgetting membrane separation 79",
+    "formatted_text": "Suresh is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "937aacb4-8e1d-4704-9ccc-9d0a24bec6ea",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "199be7d8"
+    },
+    "raw_asr": "kiran forgetting placement process 94",
+    "formatted_text": "Kiran is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "790a13b3-e6cb-4bd5-8ee1-2b08dbe89f1f",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "5319c8f1"
+    },
+    "raw_asr": "priya checking lab safety 46",
+    "formatted_text": "Priya is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "494800f2-15e0-441a-814b-35f4809d5b3e",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "44f9491b"
+    },
+    "raw_asr": "pritha checking lab safety 71",
+    "formatted_text": "Pritha is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "6ac3322c-8a79-44bb-8a4e-74993f25164c",
+    "occurred_at": "2026-06-18T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "91c7beb6"
+    },
+    "raw_asr": "pritha checking membrane separation 32",
+    "formatted_text": "Pritha is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "49c1090c-5ddd-4ba4-869f-f11517914301",
+    "occurred_at": "2026-07-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "e1c9b31e"
+    },
+    "raw_asr": "kiran checking hostel issues 3",
+    "formatted_text": "Kiran is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "43c07dc9-921b-4ef1-af92-676a0fc420d5",
+    "occurred_at": "2026-07-29T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "7209b163"
+    },
+    "raw_asr": "pritha checking CRE assignment 9",
+    "formatted_text": "Pritha is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "d22c179e-cb8d-4d6e-8078-f334b37fe65c",
+    "occurred_at": "2026-08-01T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "1d38f500"
+    },
+    "raw_asr": "ravi checking CRE assignment 94",
+    "formatted_text": "Ravi is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "c1a3796e-839a-49b4-9816-7a27e4630bc1",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "844b4613"
+    },
+    "raw_asr": "prof. varghese discussing CRE assignment 69",
+    "formatted_text": "Prof. Varghese is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "97c3a2c1-ae0b-42ac-a6ac-6756894c2eb1",
+    "occurred_at": "2026-06-18T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "5722471a"
+    },
+    "raw_asr": "ravi worrying about membrane separation 16",
+    "formatted_text": "Ravi is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ede82118-aaa8-47d1-8e30-52bc87679354",
+    "occurred_at": "2026-07-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "d4ca826b"
+    },
+    "raw_asr": "kiran checking hostel issues 3",
+    "formatted_text": "Kiran is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "3ac6cd07-bd08-4172-aea3-119db8b8c06f",
+    "occurred_at": "2026-07-01T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "1dd9afd5"
+    },
+    "raw_asr": "pritha submitting membrane separation 19",
+    "formatted_text": "Pritha is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "47bca5ac-a8cc-4ec9-a4af-5eb98380cef6",
+    "occurred_at": "2026-05-05T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "102fac45"
+    },
+    "raw_asr": "prof. varghese forgetting lab safety 98",
+    "formatted_text": "Prof. Varghese is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "1f496be8-2854-497b-804f-12af39f2a02e",
+    "occurred_at": "2026-05-16T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "56dee808"
+    },
+    "raw_asr": "suresh checking membrane separation 10",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "aeef5c1c-bcbe-405f-8fe8-7f902fa38f72",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "ac25b17c"
+    },
+    "raw_asr": "prof. varghese forgetting hostel issues 25",
+    "formatted_text": "Prof. Varghese is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "22226061-5e04-441e-bd7c-a0966c4b0aa2",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "734092ed"
+    },
+    "raw_asr": "kiran checking lab safety 47",
+    "formatted_text": "Kiran is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "e0174af0-3bf7-4edd-bc00-18298c7459e3",
+    "occurred_at": "2026-08-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "40d76de0"
+    },
+    "raw_asr": "pritha checking membrane separation 1",
+    "formatted_text": "Pritha is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "2a469a97-da8a-42f9-8b47-48c27aeb57f6",
+    "occurred_at": "2026-06-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "5c78687f"
+    },
+    "raw_asr": "suresh checking placement process 26",
+    "formatted_text": "Suresh is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "7ebf039e-cdcb-4394-93b4-8beb13ae1a64",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "f28835ca"
+    },
+    "raw_asr": "suresh forgetting CRE assignment 10",
+    "formatted_text": "Suresh is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "fdd714dd-4ee8-461d-8af4-804ef4047848",
+    "occurred_at": "2026-08-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "87179fe1"
+    },
+    "raw_asr": "ravi worrying about CRE assignment 88",
+    "formatted_text": "Ravi is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "6ac3f54b-78a1-4c48-b5d8-ec287733ea54",
+    "occurred_at": "2026-05-31T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "1560d00e"
+    },
+    "raw_asr": "kiran worrying about placement process 51",
+    "formatted_text": "Kiran is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "924815d9-ce1b-4eec-abbd-77b188a3ba3b",
+    "occurred_at": "2026-07-20T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "5ad93d85"
+    },
+    "raw_asr": "pritha submitting placement process 69",
+    "formatted_text": "Pritha is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "8481ab4f-6cc2-4be3-a9d6-cdbfef73e520",
+    "occurred_at": "2026-07-07T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "4b096639"
+    },
+    "raw_asr": "suresh checking membrane separation 4",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "2476e77f-129e-4b54-8cb1-e3f13489e9fb",
+    "occurred_at": "2026-06-11T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "f3ed8a8b"
+    },
+    "raw_asr": "priya checking membrane separation 10",
+    "formatted_text": "Priya is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "6a74c1b5-0e38-4b36-8948-9e810bb5b8e9",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "e639449d"
+    },
+    "raw_asr": "suresh worrying about placement process 92",
+    "formatted_text": "Suresh is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "b2f3fb18-e6f4-4d9d-b9fa-84af44c32453",
+    "occurred_at": "2026-05-05T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "a3d6bcdb"
+    },
+    "raw_asr": "priya submitting membrane separation 62",
+    "formatted_text": "Priya is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "9fb71d75-86ef-4778-919f-11a787ca2bf7",
+    "occurred_at": "2026-05-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f74d93e0"
+    },
+    "raw_asr": "prof. varghese discussing membrane separation 31",
+    "formatted_text": "Prof. Varghese is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ef1c8d55-af0e-40a4-a012-aecc8fdf3b7e",
+    "occurred_at": "2026-07-03T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "f862b08d"
+    },
+    "raw_asr": "suresh worrying about membrane separation 100",
+    "formatted_text": "Suresh is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "942c516d-b8eb-462e-8afe-ac9d636b3620",
+    "occurred_at": "2026-05-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "8e868ee8"
+    },
+    "raw_asr": "prof. varghese discussing membrane separation 43",
+    "formatted_text": "Prof. Varghese is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8bebfd7a-d086-46e1-8415-851f1480d17c",
+    "occurred_at": "2026-06-27T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "8ea11b19"
+    },
+    "raw_asr": "suresh discussing CRE assignment 27",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "269e061c-fb6b-4c24-8000-945a992e66d7",
+    "occurred_at": "2026-08-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "17380ffe"
+    },
+    "raw_asr": "pritha worrying about lab safety 15",
+    "formatted_text": "Pritha is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "c3acfaa7-0971-4acb-a64b-ac4dd088e9e0",
+    "occurred_at": "2026-06-11T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "728ec95e"
+    },
+    "raw_asr": "suresh forgetting CRE assignment 95",
+    "formatted_text": "Suresh is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "20483313-6101-493a-b468-072209487b9c",
+    "occurred_at": "2026-05-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "965b6bb1"
+    },
+    "raw_asr": "suresh checking lab safety 58",
+    "formatted_text": "Suresh is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "7cfac6e7-c66b-4390-80ea-ca48c47c9e4e",
+    "occurred_at": "2026-05-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f5b0ddd0"
+    },
+    "raw_asr": "kiran submitting lab safety 93",
+    "formatted_text": "Kiran is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "3cafaf7c-675b-4a0b-b964-527386506a00",
+    "occurred_at": "2026-08-27T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "182b0923"
+    },
+    "raw_asr": "kiran discussing hostel issues 36",
+    "formatted_text": "Kiran is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "7e8dfb31-0dbd-4881-aa07-afed1dd38c25",
+    "occurred_at": "2026-05-09T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "211160dd"
+    },
+    "raw_asr": "priya worrying about placement process 75",
+    "formatted_text": "Priya is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "57d47b0c-2b97-4b47-9151-b796993d4a51",
+    "occurred_at": "2026-07-03T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "288691dd"
+    },
+    "raw_asr": "pritha submitting CRE assignment 32",
+    "formatted_text": "Pritha is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "7543378a-f1a9-43c0-908d-b6e9cd432d06",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "2ecb44d9"
+    },
+    "raw_asr": "pritha checking CRE assignment 58",
+    "formatted_text": "Pritha is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "2e94b151-9756-4d9f-9242-0d291a133bd2",
+    "occurred_at": "2026-06-24T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "037d583b"
+    },
+    "raw_asr": "ravi discussing hostel issues 69",
+    "formatted_text": "Ravi is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "0472b57d-8e17-4a17-bfc0-296667c24e83",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "b2ee8760"
+    },
+    "raw_asr": "kiran forgetting CRE assignment 67",
+    "formatted_text": "Kiran is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "43f1085a-153a-46cd-bad8-2bd36c632b31",
+    "occurred_at": "2026-07-12T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "091a51cb"
+    },
+    "raw_asr": "priya worrying about membrane separation 83",
+    "formatted_text": "Priya is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "e1237d7b-28e7-411c-b8f4-157c975b74da",
+    "occurred_at": "2026-08-05T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "3b1aa70f"
+    },
+    "raw_asr": "suresh forgetting CRE assignment 67",
+    "formatted_text": "Suresh is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "13e3f727-a04b-4ed5-b4ce-617d34241bc9",
+    "occurred_at": "2026-05-25T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "0dedc6fb"
+    },
+    "raw_asr": "kiran forgetting placement process 82",
+    "formatted_text": "Kiran is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "610b639d-0812-4c3d-8f13-eda91dce43da",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "97bb5bea"
+    },
+    "raw_asr": "ravi submitting hostel issues 19",
+    "formatted_text": "Ravi is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "2ce640d2-1c4d-4f12-90d4-30d5d0411fdf",
+    "occurred_at": "2026-06-02T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "268e6daf"
+    },
+    "raw_asr": "prof. varghese forgetting membrane separation 50",
+    "formatted_text": "Prof. Varghese is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8a1da1cd-04c9-4df9-b708-3f0b17822123",
+    "occurred_at": "2026-05-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "6cb6f058"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 86",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ac7c1ccf-09e9-459a-81d2-9a300e20dae9",
+    "occurred_at": "2026-06-01T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "32c6c97a"
+    },
+    "raw_asr": "priya submitting hostel issues 86",
+    "formatted_text": "Priya is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "8cfde1dc-b9ab-48d0-81bf-e3892edd2bb4",
+    "occurred_at": "2026-07-18T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "153cd938"
+    },
+    "raw_asr": "ravi discussing CRE assignment 93",
+    "formatted_text": "Ravi is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "b3bafe6b-e2f0-48af-9ec7-f5621432f024",
+    "occurred_at": "2026-06-29T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "c6b89f7d"
+    },
+    "raw_asr": "priya discussing CRE assignment 46",
+    "formatted_text": "Priya is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8e8c2913-f8f2-4aa2-b16a-7183af566d80",
+    "occurred_at": "2026-07-03T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "2842334e"
+    },
+    "raw_asr": "prof. varghese forgetting membrane separation 13",
+    "formatted_text": "Prof. Varghese is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "933f36d4-d168-4819-8218-e0eba6db8033",
+    "occurred_at": "2026-06-18T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "d3d27239"
+    },
+    "raw_asr": "prof. varghese worrying about CRE assignment 6",
+    "formatted_text": "Prof. Varghese is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "780b3111-fdab-4685-a729-8726fa5c1a03",
+    "occurred_at": "2026-08-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0fe52d01"
+    },
+    "raw_asr": "priya submitting hostel issues 53",
+    "formatted_text": "Priya is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d5782aed-a287-405f-aa62-b384cfed1549",
+    "occurred_at": "2026-06-05T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "19f013df"
+    },
+    "raw_asr": "prof. varghese submitting membrane separation 71",
+    "formatted_text": "Prof. Varghese is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ed2d80bf-f026-40d1-8f0e-100f1ed39686",
+    "occurred_at": "2026-08-06T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "793b86bc"
+    },
+    "raw_asr": "ravi worrying about hostel issues 31",
+    "formatted_text": "Ravi is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "abfc5275-4c5c-4244-9348-1ea985cfb606",
+    "occurred_at": "2026-07-19T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "44238878"
+    },
+    "raw_asr": "prof. varghese checking placement process 52",
+    "formatted_text": "Prof. Varghese is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "dd55e439-3bef-4d5d-bb19-689c62ad4ab1",
+    "occurred_at": "2026-08-20T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "9bfe1870"
+    },
+    "raw_asr": "suresh discussing hostel issues 16",
+    "formatted_text": "Suresh is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "5acbc0a8-48a8-4ae3-9b92-c128cd94ab5f",
+    "occurred_at": "2026-07-10T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "9fb48192"
+    },
+    "raw_asr": "pritha worrying about hostel issues 58",
+    "formatted_text": "Pritha is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "bd889919-a5f2-4803-aeba-1e08efd79c33",
+    "occurred_at": "2026-05-14T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "e7273ba2"
+    },
+    "raw_asr": "ravi checking placement process 33",
+    "formatted_text": "Ravi is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e2cd3f9b-486c-476d-9c05-4f143b35a94c",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "6e49e885"
+    },
+    "raw_asr": "ravi worrying about membrane separation 91",
+    "formatted_text": "Ravi is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "95da56f8-f75b-4e40-a766-ba71cd5a28a2",
+    "occurred_at": "2026-05-15T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "3b3a57a9"
+    },
+    "raw_asr": "ravi checking membrane separation 35",
+    "formatted_text": "Ravi is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "e306b221-c51a-48d1-8e01-36015108398b",
+    "occurred_at": "2026-08-15T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "14dd92f5"
+    },
+    "raw_asr": "priya forgetting hostel issues 20",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "f4da920c-962a-4141-b2be-5bc4c23c9c69",
+    "occurred_at": "2026-08-09T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "a783f7df"
+    },
+    "raw_asr": "ravi checking membrane separation 19",
+    "formatted_text": "Ravi is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "a010c862-c595-4ef3-8de3-f02bd7807a26",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "3fa1c1da"
+    },
+    "raw_asr": "suresh submitting hostel issues 66",
+    "formatted_text": "Suresh is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d8d025b5-c193-4c29-b138-7fa4e0adfe12",
+    "occurred_at": "2026-07-27T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "e9a03ecb"
+    },
+    "raw_asr": "kiran checking placement process 65",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "91b9c8e1-1e23-4b60-89bf-3169fbb055fe",
+    "occurred_at": "2026-07-05T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f5ba31d0"
+    },
+    "raw_asr": "kiran forgetting lab safety 66",
+    "formatted_text": "Kiran is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "3f4813eb-6b80-43fe-b906-7b4538bcbba3",
+    "occurred_at": "2026-05-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "292ee359"
+    },
+    "raw_asr": "prof. varghese checking membrane separation 38",
+    "formatted_text": "Prof. Varghese is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "03d0b02f-09f4-4dab-bbe4-643fc5443c43",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "834ceeb6"
+    },
+    "raw_asr": "kiran submitting CRE assignment 52",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "cfc33324-a864-4d71-9752-1f69996bc19b",
+    "occurred_at": "2026-05-11T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "79dd9863"
+    },
+    "raw_asr": "pritha checking CRE assignment 81",
+    "formatted_text": "Pritha is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "da8021b5-f0a5-43d1-8d62-c01a7e2d8d2e",
+    "occurred_at": "2026-05-01T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "f2395bb3"
+    },
+    "raw_asr": "suresh discussing lab safety 71",
+    "formatted_text": "Suresh is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "25ffd686-5e2e-42c2-a728-1960d481fabc",
+    "occurred_at": "2026-05-19T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c2fb3d66"
+    },
+    "raw_asr": "pritha submitting placement process 41",
+    "formatted_text": "Pritha is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "8d01ffe4-8448-476e-8162-7f3e5700a9bd",
+    "occurred_at": "2026-07-31T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "93f0c88c"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 95",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "e915f9b7-39cd-487b-b272-e1eadc99a9a9",
+    "occurred_at": "2026-06-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "70b25665"
+    },
+    "raw_asr": "pritha worrying about lab safety 23",
+    "formatted_text": "Pritha is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "ca2bfe0a-8955-4f50-9e2a-d42298644068",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "52f01d6d"
+    },
+    "raw_asr": "prof. varghese discussing CRE assignment 33",
+    "formatted_text": "Prof. Varghese is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "a0629ae9-f553-4e32-b41d-ee800907ebd2",
+    "occurred_at": "2026-07-07T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "f4ebac76"
+    },
+    "raw_asr": "priya checking placement process 8",
+    "formatted_text": "Priya is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e2c9b56d-4f83-4074-82de-072a5225de26",
+    "occurred_at": "2026-06-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "a8b4987c"
+    },
+    "raw_asr": "ravi discussing CRE assignment 57",
+    "formatted_text": "Ravi is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "5cc7a7c7-c17f-4a75-90df-74bcb932e6fc",
+    "occurred_at": "2026-08-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "37355ebd"
+    },
+    "raw_asr": "suresh submitting placement process 60",
+    "formatted_text": "Suresh is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "0bfe442e-200a-481b-bd61-376bcec14ca6",
+    "occurred_at": "2026-05-13T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "707ae54b"
+    },
+    "raw_asr": "ravi submitting lab safety 41",
+    "formatted_text": "Ravi is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "23fdbfe9-62a5-4718-b7c8-4ecc4d89eaec",
+    "occurred_at": "2026-06-17T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "3c9ada74"
+    },
+    "raw_asr": "ravi worrying about lab safety 72",
+    "formatted_text": "Ravi is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "be16e5a1-3ecc-46c3-835f-58abeb4be593",
+    "occurred_at": "2026-07-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "960f4eb0"
+    },
+    "raw_asr": "priya worrying about placement process 75",
+    "formatted_text": "Priya is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "9ff5664f-03bd-44c5-bd96-7ba0c6c672a2",
+    "occurred_at": "2026-08-11T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "7a14118b"
+    },
+    "raw_asr": "prof. varghese forgetting CRE assignment 65",
+    "formatted_text": "Prof. Varghese is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "683a2094-405f-4815-81ad-0787ae3e9090",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "afdce990"
+    },
+    "raw_asr": "priya discussing membrane separation 90",
+    "formatted_text": "Priya is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "c7beaed3-61dc-4e8e-b0a2-f053ad59b103",
+    "occurred_at": "2026-07-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "022cdb59"
+    },
+    "raw_asr": "prof. varghese discussing CRE assignment 11",
+    "formatted_text": "Prof. Varghese is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "83976243-3c1a-43ee-ad37-acde8c0ed2fc",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "3db653af"
+    },
+    "raw_asr": "priya checking lab safety 39",
+    "formatted_text": "Priya is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "20d3d35f-d2b1-44f7-8b30-1f955d978531",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "98d51cb2"
+    },
+    "raw_asr": "priya worrying about hostel issues 52",
+    "formatted_text": "Priya is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "7611ec28-f23c-4446-af79-1ead915d0e77",
+    "occurred_at": "2026-05-01T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "29950deb"
+    },
+    "raw_asr": "prof. varghese checking lab safety 62",
+    "formatted_text": "Prof. Varghese is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "322a6b71-cf9f-437b-9d07-907d8168f8d0",
+    "occurred_at": "2026-07-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "533a65f4"
+    },
+    "raw_asr": "kiran worrying about membrane separation 52",
+    "formatted_text": "Kiran is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "01cf426e-9405-441e-b2bd-4726c0fe8e53",
+    "occurred_at": "2026-08-17T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "b8c4eba3"
+    },
+    "raw_asr": "prof. varghese checking hostel issues 94",
+    "formatted_text": "Prof. Varghese is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "41162f60-9dbf-4e79-9082-885841272d96",
+    "occurred_at": "2026-05-13T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "ce0b3475"
+    },
+    "raw_asr": "pritha submitting hostel issues 21",
+    "formatted_text": "Pritha is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "a5442afb-0e6c-4764-a42f-734488f39047",
+    "occurred_at": "2026-07-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0ebc1e18"
+    },
+    "raw_asr": "prof. varghese worrying about lab safety 89",
+    "formatted_text": "Prof. Varghese is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "149fd113-27de-4e4e-ad4f-98cfe54b6df5",
+    "occurred_at": "2026-05-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c718595c"
+    },
+    "raw_asr": "kiran submitting placement process 22",
+    "formatted_text": "Kiran is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "b325d6a9-01ba-4933-a0a9-35082debbcb1",
+    "occurred_at": "2026-06-07T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c32af472"
+    },
+    "raw_asr": "kiran discussing placement process 37",
+    "formatted_text": "Kiran is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "6e8847b0-7863-4f78-971e-790e7a260349",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "82ecd678"
+    },
+    "raw_asr": "ravi checking CRE assignment 70",
+    "formatted_text": "Ravi is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "77a95574-7410-4687-88db-1949ae5ea5b8",
+    "occurred_at": "2026-08-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "a42e4cab"
+    },
+    "raw_asr": "pritha worrying about placement process 64",
+    "formatted_text": "Pritha is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "9d9f3587-4614-491d-a5fc-4b2d6a9f86bb",
+    "occurred_at": "2026-05-02T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "f3c67a9d"
+    },
+    "raw_asr": "prof. varghese forgetting CRE assignment 53",
+    "formatted_text": "Prof. Varghese is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "bde828d6-76b2-4091-9c25-55c921d41a4e",
+    "occurred_at": "2026-07-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "817036af"
+    },
+    "raw_asr": "suresh worrying about CRE assignment 38",
+    "formatted_text": "Suresh is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "d88fbbcd-e5ee-48bc-b4b0-b30042822878",
+    "occurred_at": "2026-08-06T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "21341219"
+    },
+    "raw_asr": "priya discussing membrain separation 47",
+    "formatted_text": "Priya is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "85d14602-eb61-4421-afee-600b3f30bfa2",
+    "occurred_at": "2026-06-05T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "0acb9769"
+    },
+    "raw_asr": "kiran submitting lab safety 15",
+    "formatted_text": "Kiran is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "c583d03e-0db9-4b18-9848-bb5d632ce069",
+    "occurred_at": "2026-07-29T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "e58fe272"
+    },
+    "raw_asr": "prof. varghese discussing placement process 84",
+    "formatted_text": "Prof. Varghese is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "083781b1-c19c-43f6-8cf6-128dada79f2b",
+    "occurred_at": "2026-06-15T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "55b50f6c"
+    },
+    "raw_asr": "suresh discussing CRE assignment 16",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "51107a33-d8c4-4b48-b114-8e750fa34c9d",
+    "occurred_at": "2026-05-09T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "db41a050"
+    },
+    "raw_asr": "pritha worrying about membrane separation 92",
+    "formatted_text": "Pritha is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4bc84693-e54d-4027-908d-853c549603de",
+    "occurred_at": "2026-07-15T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "42c20793"
+    },
+    "raw_asr": "kiran discussing placement process 10",
+    "formatted_text": "Kiran is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "a84a45e5-9485-4631-8014-b0240b8ed473",
+    "occurred_at": "2026-07-09T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "b3a1a8b3"
+    },
+    "raw_asr": "pritha discussing placement process 4",
+    "formatted_text": "Pritha is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "a95b08cb-9738-4f03-92ba-e41a7fee3075",
+    "occurred_at": "2026-06-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "d3ffca4f"
+    },
+    "raw_asr": "suresh checking membrane separation 20",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ee1dd84b-e81f-4d2c-accb-ebff530f9ab3",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "e6360045"
+    },
+    "raw_asr": "ravi submitting membrane separation 70",
+    "formatted_text": "Ravi is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "15c0562f-faf2-4777-b39e-24f9d96eea53",
+    "occurred_at": "2026-07-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "5e3383eb"
+    },
+    "raw_asr": "suresh discussing CRE assignment 57",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "7ccaaf9d-bf30-4fc6-8f2f-fab7d71c476f",
+    "occurred_at": "2026-08-16T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "c63d6e79"
+    },
+    "raw_asr": "ravi submitting placement process 50",
+    "formatted_text": "Ravi is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "b7c487d6-b3bd-4007-826b-4db8b6dd747e",
+    "occurred_at": "2026-08-07T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "ae225524"
+    },
+    "raw_asr": "priya checking CRE assignment 3",
+    "formatted_text": "Priya is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "468d9593-41e0-42dc-b534-e99ecb4b763e",
+    "occurred_at": "2026-08-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "b943370a"
+    },
+    "raw_asr": "ravi checking CRE assignment 74",
+    "formatted_text": "Ravi is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "0f4bac6e-b664-4224-a593-421ff3a29e46",
+    "occurred_at": "2026-06-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "63bf1838"
+    },
+    "raw_asr": "prof. varghese checking CRE assignment 27",
+    "formatted_text": "Prof. Varghese is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "f188614f-06cf-433d-9dfc-6060b1c59e73",
+    "occurred_at": "2026-06-19T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "d6ab9f42"
+    },
+    "raw_asr": "priya forgetting lab safety 87",
+    "formatted_text": "Priya is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "f01f5363-3bdc-44b7-92b2-b91c397af2a2",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "5d6bdb45"
+    },
+    "raw_asr": "ravi worrying about placement process 89",
+    "formatted_text": "Ravi is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "f6338751-e3e0-4017-8543-0753d2cc5158",
+    "occurred_at": "2026-07-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "da66e69f"
+    },
+    "raw_asr": "prof. varghese discussing placement process 8",
+    "formatted_text": "Prof. Varghese is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "68e3de05-dce8-4bef-84b6-6fbfbd627516",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "471df475"
+    },
+    "raw_asr": "pritha discussing CRE assignment 76",
+    "formatted_text": "Pritha is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "c8cdc6a0-1b19-4315-8e45-8ca286e82184",
+    "occurred_at": "2026-05-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "6a33ddde"
+    },
+    "raw_asr": "pritha checking lab safety 28",
+    "formatted_text": "Pritha is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "9048001a-a396-42f4-8b12-16cd99a48981",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "2a440a38"
+    },
+    "raw_asr": "priya checking CRE assignment 17",
+    "formatted_text": "Priya is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "36ec6f4b-21c2-4383-9f4a-ce3a6ed7bb5f",
+    "occurred_at": "2026-05-11T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "aeee40f9"
+    },
+    "raw_asr": "suresh submitting CRE assignment 40",
+    "formatted_text": "Suresh is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "936bcded-6606-4724-9c47-884a49ae5cdf",
+    "occurred_at": "2026-06-07T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "7f41a4c5"
+    },
+    "raw_asr": "suresh checking CRE assignment 91",
+    "formatted_text": "Suresh is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ca173d1b-90f2-4b3e-a9f9-659aca4bd746",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "36eb0f4b"
+    },
+    "raw_asr": "priya submitting CRE assignment 86",
+    "formatted_text": "Priya is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "f65d87ae-1592-4be0-ab22-1fa28f41e859",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e1038205"
+    },
+    "raw_asr": "kiran discussing membrain separation 44",
+    "formatted_text": "Kiran is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "23860f7a-f035-4e50-81f1-d30528686a30",
+    "occurred_at": "2026-08-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "04ed13a0"
+    },
+    "raw_asr": "priya forgetting hostel issues 30",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "90b1d001-f373-4bd4-8d7c-72d861aeb212",
+    "occurred_at": "2026-06-12T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "7d514a16"
+    },
+    "raw_asr": "priya discussing placement process 76",
+    "formatted_text": "Priya is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e33d6ed0-2044-4587-b764-3459adb61191",
+    "occurred_at": "2026-08-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "ae1df71f"
+    },
+    "raw_asr": "ravi worrying about hostel issues 52",
+    "formatted_text": "Ravi is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "9f0bb81a-b0f5-47ee-afd2-06843bdb5ccb",
+    "occurred_at": "2026-05-08T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "d8030867"
+    },
+    "raw_asr": "pritha worrying about CRE assignment 90",
+    "formatted_text": "Pritha is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "121da1ca-ca94-4751-924c-de918ebdc461",
+    "occurred_at": "2026-08-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "d2d180f4"
+    },
+    "raw_asr": "suresh worrying about lab safety 84",
+    "formatted_text": "Suresh is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "0979c49e-1443-42c9-8783-f4b637041cf3",
+    "occurred_at": "2026-08-15T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "fee74544"
+    },
+    "raw_asr": "ravi discussing membrane separation 49",
+    "formatted_text": "Ravi is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8f5846fb-e210-49a9-ab3a-248c8c624be0",
+    "occurred_at": "2026-08-11T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "fa506df6"
+    },
+    "raw_asr": "prof. varghese discussing CRE assignment 37",
+    "formatted_text": "Prof. Varghese is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "e3b693db-9db3-4ad7-a191-91d82f9bd887",
+    "occurred_at": "2026-05-31T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "afadc95b"
+    },
+    "raw_asr": "kiran worrying about CRE assignment 46",
+    "formatted_text": "Kiran is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "2886addb-2ce1-4ec6-8f07-d14d0b16b844",
+    "occurred_at": "2026-07-03T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c2fc5894"
+    },
+    "raw_asr": "ravi checking placement process 64",
+    "formatted_text": "Ravi is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "ff323408-ceec-4373-88bb-42c138652c07",
+    "occurred_at": "2026-06-15T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0bc43e54"
+    },
+    "raw_asr": "suresh forgetting hostel issues 35",
+    "formatted_text": "Suresh is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "acfbad89-37f2-4d92-81b6-963df4ce48f3",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "25d19a80"
+    },
+    "raw_asr": "ravi checking hostel issues 4",
+    "formatted_text": "Ravi is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "3fe9c4e8-b515-4503-be8f-a5a880f9824f",
+    "occurred_at": "2026-08-01T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "4c92e737"
+    },
+    "raw_asr": "priya worrying about CRE assignment 17",
+    "formatted_text": "Priya is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "d9d7777e-f3a9-4582-986c-7f72c85a05fc",
+    "occurred_at": "2026-06-29T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "e79413a1"
+    },
+    "raw_asr": "pritha worrying about hostel issues 86",
+    "formatted_text": "Pritha is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "42e35486-0c29-4e09-8a37-67ca3a674b28",
+    "occurred_at": "2026-06-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "25802548"
+    },
+    "raw_asr": "ravi checking CRE assignment 21",
+    "formatted_text": "Ravi is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "bc497f62-4807-4d5e-9def-480014dc743f",
+    "occurred_at": "2026-06-17T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "be1cce74"
+    },
+    "raw_asr": "kiran submitting membrane separation 84",
+    "formatted_text": "Kiran is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "85db0cd0-1ee4-4163-aec1-ac9c09e8fd51",
+    "occurred_at": "2026-07-03T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "d30e64c5"
+    },
+    "raw_asr": "prof. varghese submitting placement process 9",
+    "formatted_text": "Prof. Varghese is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "9f38e06d-e41d-4637-9844-3d13b1f76d2c",
+    "occurred_at": "2026-07-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0885c2c6"
+    },
+    "raw_asr": "kiran checking placement process 52",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "2ef03b47-964c-415a-97d2-160e5f385af1",
+    "occurred_at": "2026-07-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "3ecf5834"
+    },
+    "raw_asr": "pritha discussing lab safety 28",
+    "formatted_text": "Pritha is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "b6d60a0c-8511-4229-8112-193b161b6c60",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "9f796b1a"
+    },
+    "raw_asr": "ravi forgetting placement process 16",
+    "formatted_text": "Ravi is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "71c40b0f-3b21-4af3-842b-24359445ca23",
+    "occurred_at": "2026-06-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "6dfcedf5"
+    },
+    "raw_asr": "priya forgetting lab safety 38",
+    "formatted_text": "Priya is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "fbe029a3-6d3e-4060-921e-03cd3a3b527a",
+    "occurred_at": "2026-07-03T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "12846543"
+    },
+    "raw_asr": "suresh forgetting membrane separation 72",
+    "formatted_text": "Suresh is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "a22e7322-c68c-4ab9-94dd-c01c4fa763aa",
+    "occurred_at": "2026-06-27T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "ac086be8"
+    },
+    "raw_asr": "prof. varghese checking CRE assignment 2",
+    "formatted_text": "Prof. Varghese is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8d8b889e-9855-41c0-b790-78f37b68c32e",
+    "occurred_at": "2026-05-15T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "be7a4d71"
+    },
+    "raw_asr": "prof. varghese checking CRE assignment 45",
+    "formatted_text": "Prof. Varghese is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ade3bd3f-fa47-46a0-89d0-047f0e74d3fe",
+    "occurred_at": "2026-05-05T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "44bc5327"
+    },
+    "raw_asr": "ravi submitting placement process 4",
+    "formatted_text": "Ravi is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "725be610-f73d-464a-8eea-9173e6033327",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "70a1a1f3"
+    },
+    "raw_asr": "priya forgetting placement process 61",
+    "formatted_text": "Priya is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "879acbef-76b2-4ac1-90a8-44d6a52f2cbd",
+    "occurred_at": "2026-05-27T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "39309180"
+    },
+    "raw_asr": "kiran submitting membrain separation 5",
+    "formatted_text": "Kiran is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "3a4fbfeb-208e-400c-a1b9-49dcb698889a",
+    "occurred_at": "2026-08-07T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "2f9859c5"
+    },
+    "raw_asr": "prof. varghese worrying about lab safety 18",
+    "formatted_text": "Prof. Varghese is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "db92798a-2ff9-44f5-9ad0-2049d676f03c",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "b98ca43b"
+    },
+    "raw_asr": "suresh forgetting placement process 89",
+    "formatted_text": "Suresh is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "bee1410c-04cc-4f62-85b6-742b8c0dc587",
+    "occurred_at": "2026-07-06T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "7d832e04"
+    },
+    "raw_asr": "ravi submitting CRE assignment 46",
+    "formatted_text": "Ravi is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "5c6a352e-2e60-47fb-b131-0f22cccb3a15",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "b90cd4a0"
+    },
+    "raw_asr": "pritha checking placement process 21",
+    "formatted_text": "Pritha is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "9f78ac4c-7a8b-4db2-bd3f-231c3344a015",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "f334c96e"
+    },
+    "raw_asr": "suresh checking membrain separation 99",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "69150bfb-eb9d-42a2-8cf3-917126bbcbe2",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c3c3078e"
+    },
+    "raw_asr": "pritha worrying about placement process 46",
+    "formatted_text": "Pritha is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "1160a86a-09f8-4429-bf66-bfd048b115fc",
+    "occurred_at": "2026-05-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "ad8e9315"
+    },
+    "raw_asr": "kiran submitting CRE assignment 55",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "6424e86e-d792-45ec-b135-76856381d540",
+    "occurred_at": "2026-06-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "1aa81f69"
+    },
+    "raw_asr": "priya checking hostel issues 3",
+    "formatted_text": "Priya is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "8648ccdf-0431-4195-8ae9-b5ae09225620",
+    "occurred_at": "2026-05-24T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "110c986d"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 18",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "0e45e48e-a8b9-42bf-bea3-488afbfad3cc",
+    "occurred_at": "2026-05-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "84d77437"
+    },
+    "raw_asr": "priya worrying about membrain separation 47",
+    "formatted_text": "Priya is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "27897597-098d-40e3-b0da-4bdd2f007ea7",
+    "occurred_at": "2026-08-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "5b9dda5d"
+    },
+    "raw_asr": "ravi worrying about CRE assignment 5",
+    "formatted_text": "Ravi is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ec59f30d-069b-46e6-a664-16bbe87badcd",
+    "occurred_at": "2026-06-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "1d47cc63"
+    },
+    "raw_asr": "pritha checking placement process 46",
+    "formatted_text": "Pritha is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "0edf4c1a-afa6-4e86-980d-a977336fd370",
+    "occurred_at": "2026-07-31T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c4158684"
+    },
+    "raw_asr": "priya discussing CRE assignment 44",
+    "formatted_text": "Priya is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "ea6fbb81-27b9-4a35-a690-b0c1bea27794",
+    "occurred_at": "2026-07-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "2711c593"
+    },
+    "raw_asr": "pritha checking hostel issues 36",
+    "formatted_text": "Pritha is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "47d1d2c2-6c4f-4703-9e42-04d304c26b76",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "7c86357f"
+    },
+    "raw_asr": "suresh discussing hostel issues 62",
+    "formatted_text": "Suresh is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "5e57bdc1-f52b-4cff-8b95-0952b244e4fb",
+    "occurred_at": "2026-05-02T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "2217798f"
+    },
+    "raw_asr": "kiran checking placement process 88",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "05c8405b-a557-44cf-baef-a391fc6364db",
+    "occurred_at": "2026-08-16T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "fc375530"
+    },
+    "raw_asr": "suresh forgetting hostel issues 83",
+    "formatted_text": "Suresh is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "7398a2ce-a1a3-4547-b6c8-1fd873005989",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c0d2f077"
+    },
+    "raw_asr": "prof. varghese worrying about membrane separation 70",
+    "formatted_text": "Prof. Varghese is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "90f9f043-fbc9-4095-b024-c7b18430de54",
+    "occurred_at": "2026-07-11T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "d7bd64cd"
+    },
+    "raw_asr": "suresh checking membrane separation 68",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "76b2825a-82fe-4501-bb4e-d0a32f18fa10",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "013e8e9e"
+    },
+    "raw_asr": "kiran checking placement process 57",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "6b8a3803-2c9a-459e-9109-e14e44f6a47d",
+    "occurred_at": "2026-07-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "f1f174d9"
+    },
+    "raw_asr": "pritha discussing CRE assignment 95",
+    "formatted_text": "Pritha is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "7474236c-4f22-4521-80ef-6bfd5218c359",
+    "occurred_at": "2026-05-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "5baa28d8"
+    },
+    "raw_asr": "priya checking lab safety 68",
+    "formatted_text": "Priya is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "10d02dc6-e9d3-41df-9fde-0963cc817124",
+    "occurred_at": "2026-07-08T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "9aee885c"
+    },
+    "raw_asr": "ravi submitting placement process 60",
+    "formatted_text": "Ravi is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e6f43f2c-31f9-4463-b06d-a3e1dc3a32c9",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "a417791d"
+    },
+    "raw_asr": "suresh discussing membrane separation 84",
+    "formatted_text": "Suresh is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "6aaf74e0-7c40-4d7d-911e-1717d35286f4",
+    "occurred_at": "2026-05-31T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "cddf22b9"
+    },
+    "raw_asr": "suresh submitting CRE assignment 32",
+    "formatted_text": "Suresh is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "5e663297-1bcc-445b-9184-a4c88dcb6544",
+    "occurred_at": "2026-07-20T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "13e1efae"
+    },
+    "raw_asr": "suresh forgetting lab safety 74",
+    "formatted_text": "Suresh is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "7c92c622-9970-46e6-a712-becf127d90d0",
+    "occurred_at": "2026-05-11T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c4759bb9"
+    },
+    "raw_asr": "ravi worrying about membrain separation 68",
+    "formatted_text": "Ravi is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "2b7c6ee0-1067-43f5-b716-df3da01be172",
+    "occurred_at": "2026-08-05T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "cddbee6e"
+    },
+    "raw_asr": "ravi forgetting CRE assignment 66",
+    "formatted_text": "Ravi is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "f5e2dc6b-ccb1-4e0b-a3f4-2bec24209a47",
+    "occurred_at": "2026-08-22T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "e718761a"
+    },
+    "raw_asr": "ravi worrying about lab safety 44",
+    "formatted_text": "Ravi is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "8a958156-2684-4c96-82af-17ba0dd0e847",
+    "occurred_at": "2026-08-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e8b2023a"
+    },
+    "raw_asr": "kiran submitting CRE assignment 9",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "c2a0f18c-9854-4d18-bb4e-be4a5cd8604b",
+    "occurred_at": "2026-06-15T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "a21b9ea9"
+    },
+    "raw_asr": "prof. varghese worrying about membrain separation 21",
+    "formatted_text": "Prof. Varghese is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "9320faa9-8c42-42f6-b142-f6dc23d73fd7",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "7d7f1b9a"
+    },
+    "raw_asr": "kiran submitting placement process 33",
+    "formatted_text": "Kiran is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "fc6eb7d5-fdef-4580-bf11-75a7ce954e52",
+    "occurred_at": "2026-05-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "cdda818c"
+    },
+    "raw_asr": "ravi submitting placement process 11",
+    "formatted_text": "Ravi is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "c22ef24c-4723-458e-bdf0-f7a5db846fe0",
+    "occurred_at": "2026-05-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "48b8331c"
+    },
+    "raw_asr": "kiran forgetting membrane separation 64",
+    "formatted_text": "Kiran is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "500bc963-824f-47ad-973d-cb3ee1ce4517",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "b127bcf9"
+    },
+    "raw_asr": "kiran submitting placement process 50",
+    "formatted_text": "Kiran is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "1e9a164c-8d2d-40d3-ab47-e11707209fea",
+    "occurred_at": "2026-05-03T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "1d456263"
+    },
+    "raw_asr": "kiran worrying about placement process 29",
+    "formatted_text": "Kiran is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "382110e3-5b0a-4690-a734-1f7db672070a",
+    "occurred_at": "2026-07-31T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "be81501a"
+    },
+    "raw_asr": "suresh discussing membrain separation 2",
+    "formatted_text": "Suresh is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "9817ea1c-59d6-4a11-ba3a-479d1566ac13",
+    "occurred_at": "2026-05-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "7653f5c5"
+    },
+    "raw_asr": "ravi forgetting CRE assignment 9",
+    "formatted_text": "Ravi is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "165bfca5-d01a-4145-80ff-6919158a0e6e",
+    "occurred_at": "2026-08-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "555d54b7"
+    },
+    "raw_asr": "prof. varghese discussing lab safety 57",
+    "formatted_text": "Prof. Varghese is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "231ee544-711d-4806-8a7b-f00fc5ea127f",
+    "occurred_at": "2026-07-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "d1438bf0"
+    },
+    "raw_asr": "priya checking placement process 55",
+    "formatted_text": "Priya is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "086f790a-1a56-4e12-973f-ae04dac93d0f",
+    "occurred_at": "2026-05-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "4c025e2b"
+    },
+    "raw_asr": "pritha discussing lab safety 29",
+    "formatted_text": "Pritha is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "321c47d5-1dba-4693-b520-d1c514b71881",
+    "occurred_at": "2026-06-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "32873599"
+    },
+    "raw_asr": "kiran submitting placement process 48",
+    "formatted_text": "Kiran is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "234f1842-1d2d-4017-af0c-796245f46e5a",
+    "occurred_at": "2026-08-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "acbaaac6"
+    },
+    "raw_asr": "prof. varghese worrying about membrane separation 28",
+    "formatted_text": "Prof. Varghese is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ffb35205-3ab9-402b-95c1-c4ac0f02b254",
+    "occurred_at": "2026-06-17T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "c59c2178"
+    },
+    "raw_asr": "kiran worrying about lab safety 90",
+    "formatted_text": "Kiran is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "64984b1b-3036-4f3d-8661-e82d42bb74f1",
+    "occurred_at": "2026-07-15T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "d4cc6df7"
+    },
+    "raw_asr": "pritha discussing placement process 91",
+    "formatted_text": "Pritha is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "9e1927de-477c-409e-9730-ee0b89025038",
+    "occurred_at": "2026-05-27T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "7b49bbca"
+    },
+    "raw_asr": "ravi discussing lab safety 68",
+    "formatted_text": "Ravi is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "0f550256-8a28-4573-8c86-c6144a924a9e",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "6c27ca01"
+    },
+    "raw_asr": "prof. varghese worrying about lab safety 11",
+    "formatted_text": "Prof. Varghese is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "96b9d017-3478-4f9e-bfda-c11dc3da5deb",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "78c6a010"
+    },
+    "raw_asr": "prof. varghese worrying about hostel issues 92",
+    "formatted_text": "Prof. Varghese is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "1e7b7458-e454-4f36-852d-593fd08ecf1c",
+    "occurred_at": "2026-06-17T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "f81c83c3"
+    },
+    "raw_asr": "ravi discussing placement process 20",
+    "formatted_text": "Ravi is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "f6de0f18-0720-435c-8461-bc050b167215",
+    "occurred_at": "2026-06-17T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "7dc0b261"
+    },
+    "raw_asr": "pritha checking hostel issues 43",
+    "formatted_text": "Pritha is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "be219092-82cf-480d-b68d-74ea3a106f5e",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "4d05db06"
+    },
+    "raw_asr": "suresh forgetting hostel issues 30",
+    "formatted_text": "Suresh is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "67799e0e-886c-4581-a95d-cc45791f077b",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "82b7d6ae"
+    },
+    "raw_asr": "ravi discussing membrane separation 19",
+    "formatted_text": "Ravi is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "c030f640-2fce-422f-b8e3-dcd076421b22",
+    "occurred_at": "2026-08-02T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "64206116"
+    },
+    "raw_asr": "suresh submitting lab safety 76",
+    "formatted_text": "Suresh is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "da6df4f4-3fdd-4b7b-ac58-dff5cf777837",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "757637fe"
+    },
+    "raw_asr": "ravi forgetting hostel issues 63",
+    "formatted_text": "Ravi is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b2ab4ab8-6454-404a-9f48-22aa6e84f1bc",
+    "occurred_at": "2026-06-16T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "aacb6540"
+    },
+    "raw_asr": "ravi discussing hostel issues 31",
+    "formatted_text": "Ravi is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "4b5c0cc2-6105-4868-ba1a-041690aa6abf",
+    "occurred_at": "2026-07-21T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "63664792"
+    },
+    "raw_asr": "pritha forgetting membrain separation 11",
+    "formatted_text": "Pritha is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "1668d58b-1939-44a8-b10e-d6d27a8c3c4d",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "1a609515"
+    },
+    "raw_asr": "suresh checking CRE assignment 98",
+    "formatted_text": "Suresh is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "9782abfb-f67b-4d81-b4e4-cbdd7d365050",
+    "occurred_at": "2026-07-01T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "e16bc44f"
+    },
+    "raw_asr": "prof. varghese discussing placement process 28",
+    "formatted_text": "Prof. Varghese is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "7b6d3090-b1d5-4961-83b7-105ba03905fa",
+    "occurred_at": "2026-05-20T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "e3ce6e68"
+    },
+    "raw_asr": "kiran worrying about membrain separation 13",
+    "formatted_text": "Kiran is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "b67c26db-626e-4a46-8ffb-59e0b3a3b4f7",
+    "occurred_at": "2026-07-21T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "756df578"
+    },
+    "raw_asr": "ravi discussing membrane separation 69",
+    "formatted_text": "Ravi is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "ac8a2958-43fa-4b98-aed1-eac623c85f00",
+    "occurred_at": "2026-08-27T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e119b828"
+    },
+    "raw_asr": "kiran discussing membrane separation 91",
+    "formatted_text": "Kiran is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4914d804-eda6-40b5-9520-9b3ce1d62755",
+    "occurred_at": "2026-06-29T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c8c7c2a3"
+    },
+    "raw_asr": "pritha forgetting membrane separation 62",
+    "formatted_text": "Pritha is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "6d5508b1-1ce6-4c04-a491-aa42c74db849",
+    "occurred_at": "2026-06-16T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "a7f68fb8"
+    },
+    "raw_asr": "priya worrying about CRE assignment 80",
+    "formatted_text": "Priya is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "3fd56556-3235-493b-b617-4afa597d2b5e",
+    "occurred_at": "2026-08-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "ea81a7cd"
+    },
+    "raw_asr": "pritha checking membrain separation 7",
+    "formatted_text": "Pritha is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "b03778f0-8a60-4067-9e62-46c4d32c7faf",
+    "occurred_at": "2026-06-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "4fd6391a"
+    },
+    "raw_asr": "ravi forgetting hostel issues 46",
+    "formatted_text": "Ravi is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "66396910-096c-4f9e-bf93-b30a5a37f124",
+    "occurred_at": "2026-07-09T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "64fa51ed"
+    },
+    "raw_asr": "pritha discussing CRE assignment 37",
+    "formatted_text": "Pritha is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "77116e53-01b9-4975-b153-87077cc7fa43",
+    "occurred_at": "2026-08-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "a500bd6d"
+    },
+    "raw_asr": "suresh forgetting hostel issues 79",
+    "formatted_text": "Suresh is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "21a174c1-2ad5-4249-9976-d8caae3bf44a",
+    "occurred_at": "2026-05-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "03cc1518"
+    },
+    "raw_asr": "kiran forgetting membrain separation 21",
+    "formatted_text": "Kiran is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "fb043a87-a2a3-48ac-bb52-ad9830805c7a",
+    "occurred_at": "2026-07-26T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "ce4860ae"
+    },
+    "raw_asr": "pritha worrying about hostel issues 61",
+    "formatted_text": "Pritha is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "6a64f524-ed0a-4a14-86cd-e30ba7786ddb",
+    "occurred_at": "2026-08-17T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "8fdf655e"
+    },
+    "raw_asr": "suresh discussing hostel issues 43",
+    "formatted_text": "Suresh is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "8add8f32-f857-48a8-bdfc-ec8c752034e5",
+    "occurred_at": "2026-08-29T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "fd1b42c4"
+    },
+    "raw_asr": "pritha checking placement process 26",
+    "formatted_text": "Pritha is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "fffd5f87-f281-4a74-b468-dcda1b4a0155",
+    "occurred_at": "2026-07-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "531224b6"
+    },
+    "raw_asr": "prof. varghese forgetting placement process 32",
+    "formatted_text": "Prof. Varghese is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "29f9c892-8af9-4d89-ae19-ab432b023d93",
+    "occurred_at": "2026-08-24T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "e2d345a7"
+    },
+    "raw_asr": "suresh submitting CRE assignment 47",
+    "formatted_text": "Suresh is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "e62c2bd6-245f-48c3-809b-267c6fd93c07",
+    "occurred_at": "2026-08-07T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "5d991e22"
+    },
+    "raw_asr": "ravi checking hostel issues 30",
+    "formatted_text": "Ravi is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "4d1bcbb7-6f7f-410b-ba65-533f18f6f8e5",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c909095f"
+    },
+    "raw_asr": "ravi submitting placement process 50",
+    "formatted_text": "Ravi is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "3d0a2060-35c4-4d1f-b49a-501f0de410b9",
+    "occurred_at": "2026-06-06T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "db7c71c0"
+    },
+    "raw_asr": "pritha checking membrane separation 75",
+    "formatted_text": "Pritha is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "e28d2a82-5086-488d-a900-d65191c1b356",
+    "occurred_at": "2026-08-19T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "25ea6243"
+    },
+    "raw_asr": "prof. varghese forgetting membrane separation 33",
+    "formatted_text": "Prof. Varghese is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "0820e1a1-15d7-475c-b7f0-d5b4a3fdfaa1",
+    "occurred_at": "2026-07-04T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "177acdae"
+    },
+    "raw_asr": "suresh forgetting CRE assignment 65",
+    "formatted_text": "Suresh is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "9a44c699-a61e-46f2-a202-1f3121ed7b42",
+    "occurred_at": "2026-06-18T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "38f381ce"
+    },
+    "raw_asr": "prof. varghese forgetting CRE assignment 50",
+    "formatted_text": "Prof. Varghese is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "b8ffaf1c-dc85-49ba-8a02-95219652b11d",
+    "occurred_at": "2026-08-19T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "efebd0e6"
+    },
+    "raw_asr": "priya worrying about placement process 95",
+    "formatted_text": "Priya is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "be3bb07f-8225-4c57-9161-7a3aa1a49b03",
+    "occurred_at": "2026-08-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "a62f4546"
+    },
+    "raw_asr": "priya submitting placement process 50",
+    "formatted_text": "Priya is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "afdaae12-beaa-41f3-ade6-e00cda0a5e11",
+    "occurred_at": "2026-06-05T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0762f304"
+    },
+    "raw_asr": "pritha forgetting membrane separation 28",
+    "formatted_text": "Pritha is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4e7665c3-dffb-40b3-b4dc-da23c1ba2750",
+    "occurred_at": "2026-08-08T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "262eb40d"
+    },
+    "raw_asr": "priya discussing hostel issues 5",
+    "formatted_text": "Priya is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "018025ca-3c3c-488d-8de4-403078fe7721",
+    "occurred_at": "2026-05-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "f8eb1a0f"
+    },
+    "raw_asr": "pritha discussing hostel issues 25",
+    "formatted_text": "Pritha is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "28921ff1-be2d-4d82-b7e0-aaba97152b1f",
+    "occurred_at": "2026-06-22T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "bbd22f10"
+    },
+    "raw_asr": "priya checking hostel issues 83",
+    "formatted_text": "Priya is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "7601904d-93c8-4f23-a64b-9e8234f2ecf6",
+    "occurred_at": "2026-06-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e8e73cbd"
+    },
+    "raw_asr": "prof. varghese forgetting hostel issues 22",
+    "formatted_text": "Prof. Varghese is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "97208672-0547-4abd-9b83-15c60a4f496a",
+    "occurred_at": "2026-06-10T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "5436cfb8"
+    },
+    "raw_asr": "pritha submitting placement process 19",
+    "formatted_text": "Pritha is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "354b6a46-41de-449e-b18e-66012e8265ec",
+    "occurred_at": "2026-08-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "066850bc"
+    },
+    "raw_asr": "kiran submitting CRE assignment 58",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "5652b2dc-118a-4a28-a27c-80c1d7850f86",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "44d63b29"
+    },
+    "raw_asr": "kiran submitting placement process 52",
+    "formatted_text": "Kiran is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "50abd9bd-f201-48bb-afc0-f54258bab435",
+    "occurred_at": "2026-07-21T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0544b95b"
+    },
+    "raw_asr": "ravi discussing placement process 34",
+    "formatted_text": "Ravi is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "1742d89d-d4e4-4efa-833a-0c217d49ec8c",
+    "occurred_at": "2026-07-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "455ac144"
+    },
+    "raw_asr": "kiran forgetting hostel issues 7",
+    "formatted_text": "Kiran is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "bd9cb28c-bc20-468e-8304-7a22d130d22a",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c88afb8a"
+    },
+    "raw_asr": "kiran worrying about hostel issues 97",
+    "formatted_text": "Kiran is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "77d1b51d-f8ac-48f6-a170-2a3074f23508",
+    "occurred_at": "2026-05-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "9c0e25f8"
+    },
+    "raw_asr": "prof. varghese discussing CRE assignment 41",
+    "formatted_text": "Prof. Varghese is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "835256db-ee51-4d39-be33-a5ca638db283",
+    "occurred_at": "2026-08-20T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "37b42880"
+    },
+    "raw_asr": "prof. varghese checking lab safety 71",
+    "formatted_text": "Prof. Varghese is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "987c2880-7cbe-4194-b543-5461db90005a",
+    "occurred_at": "2026-07-11T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "746e2f4d"
+    },
+    "raw_asr": "priya forgetting hostel issues 15",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "3071e76f-2a19-4c22-9548-074d3bb18806",
+    "occurred_at": "2026-05-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "06424784"
+    },
+    "raw_asr": "prof. varghese discussing placement process 84",
+    "formatted_text": "Prof. Varghese is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "5459c138-c7b8-43c2-a397-4a963fab65f2",
+    "occurred_at": "2026-05-30T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "a734f7a4"
+    },
+    "raw_asr": "priya discussing membrain separation 34",
+    "formatted_text": "Priya is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8e6ff54c-cc30-4ad1-9b16-b7d28c960b3f",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "b42ebfe2"
+    },
+    "raw_asr": "pritha checking placement process 47",
+    "formatted_text": "Pritha is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "43ee5be3-267c-4107-b409-b4bea5885226",
+    "occurred_at": "2026-05-26T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "fb0a596f"
+    },
+    "raw_asr": "kiran worrying about membrane separation 94",
+    "formatted_text": "Kiran is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4659bcd0-eff2-469b-9d6a-f25f19d6a539",
+    "occurred_at": "2026-07-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "c631bddd"
+    },
+    "raw_asr": "prof. varghese checking placement process 14",
+    "formatted_text": "Prof. Varghese is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "1e6d18e2-5e8f-4690-baae-c53270f14c84",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "310ce40f"
+    },
+    "raw_asr": "priya forgetting hostel issues 92",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b995a03e-036d-45c3-9883-0a4ea3350816",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "d583cfb7"
+    },
+    "raw_asr": "suresh discussing hostel issues 6",
+    "formatted_text": "Suresh is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "14cc888c-36b1-4eb7-ac45-fa9811f55aa9",
+    "occurred_at": "2026-05-26T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "abcdcaf6"
+    },
+    "raw_asr": "priya worrying about CRE assignment 14",
+    "formatted_text": "Priya is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "b4a955b0-3245-407f-b554-9a56277b31bf",
+    "occurred_at": "2026-07-30T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "6c864399"
+    },
+    "raw_asr": "prof. varghese forgetting CRE assignment 21",
+    "formatted_text": "Prof. Varghese is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "5294cf67-e0a2-4ff4-a97c-5df81c63806d",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "02ebb715"
+    },
+    "raw_asr": "ravi forgetting placement process 11",
+    "formatted_text": "Ravi is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "450f91a1-7262-4405-abe8-ebb5a9260e08",
+    "occurred_at": "2026-08-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "b884db11"
+    },
+    "raw_asr": "priya checking membrane separation 51",
+    "formatted_text": "Priya is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "a9b88aa5-9d2e-4fde-9c1b-73fc66a4df54",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "ed29cc1a"
+    },
+    "raw_asr": "suresh forgetting lab safety 91",
+    "formatted_text": "Suresh is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "788aa7a3-6b8a-48f0-8c2a-bc3ecc82d740",
+    "occurred_at": "2026-07-15T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "59730988"
+    },
+    "raw_asr": "pritha discussing lab safety 69",
+    "formatted_text": "Pritha is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "da2a886c-7421-4feb-8f45-bd2dc86f9c84",
+    "occurred_at": "2026-08-01T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "3b450157"
+    },
+    "raw_asr": "ravi submitting CRE assignment 65",
+    "formatted_text": "Ravi is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "383efb2e-f884-45f7-af46-3ca5986fd18d",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "028b3352"
+    },
+    "raw_asr": "priya checking placement process 19",
+    "formatted_text": "Priya is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "5a84b4b4-25ba-478b-87c1-7ec82966ae86",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "4acb0c33"
+    },
+    "raw_asr": "suresh worrying about membrane separation 17",
+    "formatted_text": "Suresh is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "a4271e81-f96c-444b-877f-6605b2d39a14",
+    "occurred_at": "2026-06-17T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "28ef82d6"
+    },
+    "raw_asr": "prof. varghese submitting placement process 57",
+    "formatted_text": "Prof. Varghese is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "a7b49a4d-eced-4aa5-9948-f2d59b8b9726",
+    "occurred_at": "2026-08-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "5b885b7a"
+    },
+    "raw_asr": "prof. varghese checking membrane separation 1",
+    "formatted_text": "Prof. Varghese is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "195ff3d0-5fa0-4189-9760-65c11f585e53",
+    "occurred_at": "2026-08-11T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "f626af11"
+    },
+    "raw_asr": "suresh forgetting CRE assignment 32",
+    "formatted_text": "Suresh is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "22c6c3f2-6795-4bf9-91e0-25537a24fcd6",
+    "occurred_at": "2026-06-18T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "2ea9e38c"
+    },
+    "raw_asr": "priya checking hostel issues 61",
+    "formatted_text": "Priya is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b0b4b6c1-c4f5-4d51-8a45-8dd3807de00a",
+    "occurred_at": "2026-05-25T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "da307788"
+    },
+    "raw_asr": "pritha submitting membrane separation 61",
+    "formatted_text": "Pritha is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "94911a70-ec8f-40eb-bf84-d1906ecb7121",
+    "occurred_at": "2026-07-31T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "18264d41"
+    },
+    "raw_asr": "prof. varghese forgetting hostel issues 90",
+    "formatted_text": "Prof. Varghese is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "dbe39971-c2c2-4b7c-8d18-ea6f0e09baba",
+    "occurred_at": "2026-08-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "19b63a0f"
+    },
+    "raw_asr": "ravi worrying about membrane separation 97",
+    "formatted_text": "Ravi is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "245f1836-f00e-4119-8ed7-1e4430e3f0a5",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "fbc46f2f"
+    },
+    "raw_asr": "pritha forgetting hostel issues 94",
+    "formatted_text": "Pritha is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "afddf2a4-a720-4c50-9c45-cd7111ae7d72",
+    "occurred_at": "2026-06-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "6c01057c"
+    },
+    "raw_asr": "kiran submitting placement process 99",
+    "formatted_text": "Kiran is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "a410ef3e-e014-49b5-9347-f315c7cd7d7d",
+    "occurred_at": "2026-05-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "90e89ff5"
+    },
+    "raw_asr": "kiran submitting CRE assignment 9",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8aa7a6c0-48d4-4712-ba64-7269db7260bd",
+    "occurred_at": "2026-07-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "29abbf77"
+    },
+    "raw_asr": "ravi forgetting membrain separation 58",
+    "formatted_text": "Ravi is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "d3f9e997-590a-4d69-811f-45c772f60067",
+    "occurred_at": "2026-07-18T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "94d31973"
+    },
+    "raw_asr": "ravi discussing hostel issues 76",
+    "formatted_text": "Ravi is discussing the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d051fb4c-1178-4a70-8aa6-602d960609a9",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "b0cd59d6"
+    },
+    "raw_asr": "suresh forgetting CRE assignment 34",
+    "formatted_text": "Suresh is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8d42931b-9ddc-46c0-b3b5-ea6992ed7693",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "5cfa2f79"
+    },
+    "raw_asr": "suresh worrying about lab safety 6",
+    "formatted_text": "Suresh is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "72d99b49-808c-42cf-9762-406f61027edf",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "35cbcd7e"
+    },
+    "raw_asr": "kiran worrying about membrane separation 53",
+    "formatted_text": "Kiran is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "cdd892cb-0d56-4074-a7e2-85963d1368e7",
+    "occurred_at": "2026-08-29T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "a5115d54"
+    },
+    "raw_asr": "suresh forgetting placement process 56",
+    "formatted_text": "Suresh is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "29cf224c-507f-4c66-942e-627fb813b5b5",
+    "occurred_at": "2026-07-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0fdeabfb"
+    },
+    "raw_asr": "suresh forgetting lab safety 70",
+    "formatted_text": "Suresh is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "4c3d4570-4458-48af-8cd2-4c4e6f58e448",
+    "occurred_at": "2026-05-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "728dfcc1"
+    },
+    "raw_asr": "ravi discussing CRE assignment 79",
+    "formatted_text": "Ravi is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "d396bbd1-1aee-42f8-8c6b-c212043c997d",
+    "occurred_at": "2026-07-29T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "584929d6"
+    },
+    "raw_asr": "prof. varghese forgetting lab safety 52",
+    "formatted_text": "Prof. Varghese is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "6236efee-39cc-445b-88e5-f45c637cfbae",
+    "occurred_at": "2026-08-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "b7adebe1"
+    },
+    "raw_asr": "ravi worrying about placement process 28",
+    "formatted_text": "Ravi is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "d7497b2d-086b-4bf3-9966-8485a3aa8041",
+    "occurred_at": "2026-08-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "f1331067"
+    },
+    "raw_asr": "prof. varghese submitting membrane separation 52",
+    "formatted_text": "Prof. Varghese is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "0c25a0c1-b4d8-441e-b58f-f10a2ef93e7d",
+    "occurred_at": "2026-08-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "07efd411"
+    },
+    "raw_asr": "prof. varghese forgetting placement process 80",
+    "formatted_text": "Prof. Varghese is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "9440e881-be6d-45d7-9ad6-2953b5443ce1",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "2504f713"
+    },
+    "raw_asr": "ravi forgetting hostel issues 14",
+    "formatted_text": "Ravi is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "0fa0654a-7fa2-433a-b4e6-d3d6c16d9089",
+    "occurred_at": "2026-08-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "fe44361d"
+    },
+    "raw_asr": "suresh checking hostel issues 5",
+    "formatted_text": "Suresh is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "59f6d43b-0dc4-402c-a601-7d5b4d11d54a",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "3f6115d7"
+    },
+    "raw_asr": "priya submitting CRE assignment 31",
+    "formatted_text": "Priya is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "7771aca1-7202-4185-b89e-520f777bd06a",
+    "occurred_at": "2026-05-31T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "73d50a2e"
+    },
+    "raw_asr": "priya worrying about CRE assignment 96",
+    "formatted_text": "Priya is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "cb5dc2fc-5c0c-4193-bd1d-d8eb71935b35",
+    "occurred_at": "2026-05-19T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "ea185cc8"
+    },
+    "raw_asr": "priya discussing CRE assignment 24",
+    "formatted_text": "Priya is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "c73c05fe-5977-477f-bd3b-be091a72362d",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "10c9e357"
+    },
+    "raw_asr": "kiran forgetting membrain separation 67",
+    "formatted_text": "Kiran is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4665f9f1-13c5-41ce-ae38-a5cf81d2eef2",
+    "occurred_at": "2026-05-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "a074baca"
+    },
+    "raw_asr": "priya submitting hostel issues 83",
+    "formatted_text": "Priya is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "19f81ec4-7390-49b7-bcfa-fac3a5af9da9",
+    "occurred_at": "2026-07-30T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "053e8902"
+    },
+    "raw_asr": "kiran checking placement process 58",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "ccf5bee3-a3b5-41a0-a874-4f4c88356c4c",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "d08691c1"
+    },
+    "raw_asr": "kiran worrying about CRE assignment 10",
+    "formatted_text": "Kiran is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "96ed5cf6-9b67-46a8-a011-a6c3a305f91d",
+    "occurred_at": "2026-08-18T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "409e3251"
+    },
+    "raw_asr": "ravi submitting lab safety 72",
+    "formatted_text": "Ravi is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "8e609e6c-ca32-463a-b5eb-ec705dee1dce",
+    "occurred_at": "2026-06-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "0fa10883"
+    },
+    "raw_asr": "kiran checking placement process 86",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "51e6c0ee-eb01-4a63-aed4-d255c7b34896",
+    "occurred_at": "2026-07-01T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "80737905"
+    },
+    "raw_asr": "prof. varghese forgetting lab safety 9",
+    "formatted_text": "Prof. Varghese is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "2ba07b43-8666-416f-bf20-6355bceb724e",
+    "occurred_at": "2026-08-03T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "336c748b"
+    },
+    "raw_asr": "ravi worrying about placement process 11",
+    "formatted_text": "Ravi is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "c4e0ca52-0157-44a5-9dbd-2771c2c7eee7",
+    "occurred_at": "2026-06-28T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "377f1c04"
+    },
+    "raw_asr": "priya forgetting placement process 15",
+    "formatted_text": "Priya is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "2073144e-b400-4675-8e52-9021a0e5e4c0",
+    "occurred_at": "2026-07-08T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "d0ec7ca5"
+    },
+    "raw_asr": "kiran forgetting lab safety 79",
+    "formatted_text": "Kiran is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "9b29f436-b3a4-4841-aef6-bc34ac59d91a",
+    "occurred_at": "2026-06-22T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "5e51063e"
+    },
+    "raw_asr": "pritha submitting hostel issues 91",
+    "formatted_text": "Pritha is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "e3189ad6-f549-4193-aa8f-d41acbaa989d",
+    "occurred_at": "2026-08-03T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "d2dd4cbd"
+    },
+    "raw_asr": "suresh submitting membrane separation 90",
+    "formatted_text": "Suresh is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "f878a421-eb77-47f4-a790-143911a94522",
+    "occurred_at": "2026-06-03T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "f6b0b8f3"
+    },
+    "raw_asr": "kiran discussing CRE assignment 8",
+    "formatted_text": "Kiran is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8f180cb5-748a-4629-b790-0e8e39c463d7",
+    "occurred_at": "2026-07-19T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "817235c9"
+    },
+    "raw_asr": "suresh worrying about placement process 33",
+    "formatted_text": "Suresh is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "e224f101-f129-4d9d-91be-64a65a491ea4",
+    "occurred_at": "2026-05-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "5e7f3d8a"
+    },
+    "raw_asr": "prof. varghese submitting hostel issues 86",
+    "formatted_text": "Prof. Varghese is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "6b243ad7-5895-4106-a575-fa43e439cb2d",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "0388ba42"
+    },
+    "raw_asr": "pritha forgetting hostel issues 53",
+    "formatted_text": "Pritha is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "f55ed60b-b90a-4a27-b380-111860001b0f",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "7cdb6b1a"
+    },
+    "raw_asr": "suresh checking hostel issues 88",
+    "formatted_text": "Suresh is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "68c9794a-6908-43d9-98a8-e30617709363",
+    "occurred_at": "2026-05-19T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "21236ea0"
+    },
+    "raw_asr": "pritha worrying about lab safety 8",
+    "formatted_text": "Pritha is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "2b93f10e-2ddb-46d0-9a98-36d2de1c0484",
+    "occurred_at": "2026-08-03T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "eda5091a"
+    },
+    "raw_asr": "kiran checking hostel issues 5",
+    "formatted_text": "Kiran is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "3314a47b-0d0c-4689-94b5-f8d8768e9bb6",
+    "occurred_at": "2026-06-25T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e0d3db93"
+    },
+    "raw_asr": "kiran submitting lab safety 20",
+    "formatted_text": "Kiran is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "2a1d982b-32cd-40fc-b23f-85480bad2179",
+    "occurred_at": "2026-05-27T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "29dd4842"
+    },
+    "raw_asr": "kiran checking CRE assignment 59",
+    "formatted_text": "Kiran is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "decf00ce-4c29-471e-8a94-eb2efead160b",
+    "occurred_at": "2026-07-13T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "8224ff4b"
+    },
+    "raw_asr": "pritha checking CRE assignment 59",
+    "formatted_text": "Pritha is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "56ebeea2-cfee-4415-a957-3abd79723556",
+    "occurred_at": "2026-05-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "8da123ef"
+    },
+    "raw_asr": "pritha submitting membrane separation 20",
+    "formatted_text": "Pritha is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4b8d621c-17e8-47b1-a7aa-731017f3b148",
+    "occurred_at": "2026-08-20T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "e35b5298"
+    },
+    "raw_asr": "priya forgetting hostel issues 91",
+    "formatted_text": "Priya is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "30f68b19-41ba-4693-ae1a-ded3d3229554",
+    "occurred_at": "2026-05-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "bc3aa2e1"
+    },
+    "raw_asr": "prof. varghese forgetting CRE assignment 89",
+    "formatted_text": "Prof. Varghese is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "36c2967c-8555-432b-90b1-a3f9d34034c6",
+    "occurred_at": "2026-07-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "9d57c02d"
+    },
+    "raw_asr": "prof. varghese checking lab safety 22",
+    "formatted_text": "Prof. Varghese is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "80a7243b-2138-44df-a353-008b1483c570",
+    "occurred_at": "2026-07-10T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "1719a231"
+    },
+    "raw_asr": "ravi forgetting membrane separation 42",
+    "formatted_text": "Ravi is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "864d7375-c41f-4061-a0ad-f35ddfbb8d1c",
+    "occurred_at": "2026-07-18T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "9baff468"
+    },
+    "raw_asr": "priya discussing CRE assignment 47",
+    "formatted_text": "Priya is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8a7fe776-89c7-425d-a78e-7a899d5da223",
+    "occurred_at": "2026-06-10T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "74ae9a2b"
+    },
+    "raw_asr": "prof. varghese discussing membrane separation 61",
+    "formatted_text": "Prof. Varghese is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "c528086d-0466-4308-abde-60906495d3fc",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "37b131f2"
+    },
+    "raw_asr": "pritha worrying about membrain separation 99",
+    "formatted_text": "Pritha is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "7ea68066-7915-4088-bb52-3c4cadbe1687",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "ddc282bb"
+    },
+    "raw_asr": "kiran forgetting placement process 75",
+    "formatted_text": "Kiran is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "112b4598-3bfa-43fd-a435-a4689cd16896",
+    "occurred_at": "2026-07-24T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "c89420d1"
+    },
+    "raw_asr": "suresh checking membrane separation 52",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "26e31351-04a7-4019-a62b-beaf95b6b312",
+    "occurred_at": "2026-07-28T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "a1b72875"
+    },
+    "raw_asr": "pritha discussing placement process 89",
+    "formatted_text": "Pritha is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "0d922a98-820f-40ee-a801-d28499ca77d0",
+    "occurred_at": "2026-08-07T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "e32289e4"
+    },
+    "raw_asr": "suresh checking membrane separation 84",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "8eab4395-8a79-4074-91b9-6347df3db982",
+    "occurred_at": "2026-06-01T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "83b0f5c7"
+    },
+    "raw_asr": "suresh submitting membrane separation 27",
+    "formatted_text": "Suresh is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "a468bea1-40ea-45e5-bb4a-29a42d935634",
+    "occurred_at": "2026-08-15T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "9b1ab8aa"
+    },
+    "raw_asr": "prof. varghese checking placement process 79",
+    "formatted_text": "Prof. Varghese is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "70412bca-bb42-47f3-b33d-1d629f481618",
+    "occurred_at": "2026-07-25T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "a29f136d"
+    },
+    "raw_asr": "priya submitting placement process 93",
+    "formatted_text": "Priya is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "db7735fa-8834-4963-bbc1-0c1bada4e679",
+    "occurred_at": "2026-06-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "3720f025"
+    },
+    "raw_asr": "prof. varghese checking membrane separation 58",
+    "formatted_text": "Prof. Varghese is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "07ac38d7-0280-40de-a630-0936fb6e402d",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "c7fbc9a2"
+    },
+    "raw_asr": "suresh submitting lab safety 24",
+    "formatted_text": "Suresh is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "5c95a5bb-3e6b-4a0d-bb22-dc29d135f840",
+    "occurred_at": "2026-06-27T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "bc40ce56"
+    },
+    "raw_asr": "suresh discussing CRE assignment 17",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "9aa659cf-59c6-4d41-a7bc-de4ca24424a7",
+    "occurred_at": "2026-05-13T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "111e18be"
+    },
+    "raw_asr": "priya checking hostel issues 20",
+    "formatted_text": "Priya is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "024104cf-fdcb-4f10-a514-c48e46ab8886",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "37666656"
+    },
+    "raw_asr": "ravi worrying about hostel issues 20",
+    "formatted_text": "Ravi is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "8a83148f-4f1a-4ed3-a068-8db9020411b3",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "d9e25471"
+    },
+    "raw_asr": "pritha discussing CRE assignment 36",
+    "formatted_text": "Pritha is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8cc8feca-3ceb-45d5-81cb-ee0b94b92269",
+    "occurred_at": "2026-06-29T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "73fd871a"
+    },
+    "raw_asr": "kiran discussing placement process 2",
+    "formatted_text": "Kiran is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "f61874a7-d9cd-46ce-8821-3570562d7f79",
+    "occurred_at": "2026-06-13T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "44fa81b0"
+    },
+    "raw_asr": "prof. varghese forgetting CRE assignment 70",
+    "formatted_text": "Prof. Varghese is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "4b413bbb-27b7-441b-a315-c5a4ba80cf1a",
+    "occurred_at": "2026-08-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "a6a511af"
+    },
+    "raw_asr": "ravi checking membrane separation 49",
+    "formatted_text": "Ravi is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "5b0b4fb7-3972-47bc-bfd0-b7c5c6e38893",
+    "occurred_at": "2026-06-25T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "dd2920b7"
+    },
+    "raw_asr": "priya submitting placement process 73",
+    "formatted_text": "Priya is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "f63a0e7a-4f61-4ba8-b18b-1fd8826eface",
+    "occurred_at": "2026-08-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "91bd8eaf"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 83",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "7ef54f1d-6de6-4b38-824e-9d60baf6decc",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "ff406e67"
+    },
+    "raw_asr": "prof. varghese worrying about hostel issues 60",
+    "formatted_text": "Prof. Varghese is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d27c37d5-38f2-4783-ab2a-e0fd6a50ed1c",
+    "occurred_at": "2026-07-27T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "c0dd891f"
+    },
+    "raw_asr": "priya worrying about membrain separation 88",
+    "formatted_text": "Priya is worrying about the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "b56f213f-ca46-4b2a-9ea9-6a6f30b94cb7",
+    "occurred_at": "2026-08-24T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "d55236ce"
+    },
+    "raw_asr": "priya checking membrane separation 72",
+    "formatted_text": "Priya is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "c0a5afaa-4bf3-445a-9733-1cb8510f3667",
+    "occurred_at": "2026-05-08T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "0950b748"
+    },
+    "raw_asr": "pritha forgetting hostel issues 54",
+    "formatted_text": "Pritha is forgetting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "bfa3bd11-4476-4ae1-b695-3c355813a7ff",
+    "occurred_at": "2026-06-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "76164e70"
+    },
+    "raw_asr": "prof. varghese forgetting membrane separation 85",
+    "formatted_text": "Prof. Varghese is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "a4273241-4584-4bcf-8b33-c8bc43734b76",
+    "occurred_at": "2026-06-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "60560216"
+    },
+    "raw_asr": "pritha forgetting placement process 41",
+    "formatted_text": "Pritha is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "3a797317-3112-4913-812b-dfcf03a67fc4",
+    "occurred_at": "2026-08-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "658aeb08"
+    },
+    "raw_asr": "suresh checking hostel issues 1",
+    "formatted_text": "Suresh is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "c0d3b6bd-dc55-4dcf-add1-112b89e4c5f1",
+    "occurred_at": "2026-08-05T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "47585802"
+    },
+    "raw_asr": "ravi checking membrane separation 98",
+    "formatted_text": "Ravi is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "86c0b28d-a0c5-48e5-9a2f-6f13e546439b",
+    "occurred_at": "2026-05-19T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "cfecf2a2"
+    },
+    "raw_asr": "kiran submitting hostel issues 41",
+    "formatted_text": "Kiran is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "85f1a0d2-dd56-4d2d-b397-3e8bd30d4c89",
+    "occurred_at": "2026-05-12T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "a55f6ec2"
+    },
+    "raw_asr": "prof. varghese discussing lab safety 1",
+    "formatted_text": "Prof. Varghese is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "0382b9d6-aaff-4727-be33-3d76828fab00",
+    "occurred_at": "2026-06-01T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "9da6c37c"
+    },
+    "raw_asr": "priya submitting membrane separation 65",
+    "formatted_text": "Priya is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "30cf8715-bc0f-4190-bbea-0ff3dcc1df59",
+    "occurred_at": "2026-07-17T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "8f610b35"
+    },
+    "raw_asr": "priya submitting lab safety 7",
+    "formatted_text": "Priya is submitting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "55c4bfa9-4b06-4f6d-8ad4-db2b28f51d06",
+    "occurred_at": "2026-05-05T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "9556d120"
+    },
+    "raw_asr": "kiran submitting CRE assignment 69",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "8730b135-ce00-48cc-b1ae-0c4f5888abd2",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "55b8c561"
+    },
+    "raw_asr": "prof. varghese discussing CRE assignment 93",
+    "formatted_text": "Prof. Varghese is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "72789ee3-abe6-4527-a502-98b254f12b90",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "14e7b86d"
+    },
+    "raw_asr": "pritha forgetting placement process 48",
+    "formatted_text": "Pritha is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "44e00cd2-c853-47ac-83f6-b3575ccae57a",
+    "occurred_at": "2026-08-27T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "2d3eaf5e"
+    },
+    "raw_asr": "ravi discussing membrain separation 55",
+    "formatted_text": "Ravi is discussing the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "176c9d1c-cd04-42c6-a884-02bedbc7b17d",
+    "occurred_at": "2026-05-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "f33f2807"
+    },
+    "raw_asr": "ravi checking hostel issues 7",
+    "formatted_text": "Ravi is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "1a5d28c8-a475-4374-b997-fae9b082b9af",
+    "occurred_at": "2026-05-25T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "aa0260c9"
+    },
+    "raw_asr": "priya checking CRE assignment 23",
+    "formatted_text": "Priya is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "a26c5fc6-4665-4fae-ac8f-c2cf76d9e52b",
+    "occurred_at": "2026-06-23T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "8a59d397"
+    },
+    "raw_asr": "kiran checking placement process 34",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "c67f71d9-01cc-4154-a4a3-5e3fcb3e3335",
+    "occurred_at": "2026-07-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "7a4ece19"
+    },
+    "raw_asr": "suresh checking CRE assignment 55",
+    "formatted_text": "Suresh is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "2e51fc2d-7a9d-4b5b-bf46-2996f77b7804",
+    "occurred_at": "2026-07-23T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "fbd8e900"
+    },
+    "raw_asr": "priya checking hostel issues 13",
+    "formatted_text": "Priya is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "3d188eee-8736-4877-8142-f42e4fba1f76",
+    "occurred_at": "2026-07-26T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "969da682"
+    },
+    "raw_asr": "prof. varghese worrying about hostel issues 48",
+    "formatted_text": "Prof. Varghese is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "9dfcfc43-453e-492d-b2df-7cac2d3d755f",
+    "occurred_at": "2026-08-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "06bfbb41"
+    },
+    "raw_asr": "suresh forgetting lab safety 58",
+    "formatted_text": "Suresh is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "3fdc2e68-9028-464e-a1ce-dd672aabe5af",
+    "occurred_at": "2026-08-23T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "9ce5cee9"
+    },
+    "raw_asr": "ravi discussing placement process 78",
+    "formatted_text": "Ravi is discussing the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "bc45338b-895f-48c4-bbd5-9e39fa6fe35b",
+    "occurred_at": "2026-07-24T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "f1f704c5"
+    },
+    "raw_asr": "pritha worrying about lab safety 7",
+    "formatted_text": "Pritha is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "24fdb2e4-d381-4695-a5c0-29d31c978fdc",
+    "occurred_at": "2026-05-09T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "84ca8024"
+    },
+    "raw_asr": "priya worrying about lab safety 41",
+    "formatted_text": "Priya is worrying about the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "54f556b1-583c-4f36-acd6-84331c58d331",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "93955389"
+    },
+    "raw_asr": "ravi checking hostel issues 56",
+    "formatted_text": "Ravi is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b3f2e246-a69b-4c05-bbb1-e6cf5a026c2b",
+    "occurred_at": "2026-06-05T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "263f3003"
+    },
+    "raw_asr": "prof. varghese submitting placement process 67",
+    "formatted_text": "Prof. Varghese is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "302c4dc2-deb1-49e3-b585-15675d36e109",
+    "occurred_at": "2026-06-01T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "6edb7204"
+    },
+    "raw_asr": "kiran forgetting lab safety 60",
+    "formatted_text": "Kiran is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "49a8d4db-d28b-4a4a-ad6c-40cc64d89c68",
+    "occurred_at": "2026-08-07T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "cac04ae1"
+    },
+    "raw_asr": "prof. varghese submitting placement process 10",
+    "formatted_text": "Prof. Varghese is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "a80c1219-1427-49ea-b0a6-2dc39979b907",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "da0ef243"
+    },
+    "raw_asr": "ravi forgetting placement process 55",
+    "formatted_text": "Ravi is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "26dbbcdf-a4a8-4505-aa0b-03a048d60d8c",
+    "occurred_at": "2026-08-06T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "2a6cdce6"
+    },
+    "raw_asr": "suresh discussing CRE assignment 39",
+    "formatted_text": "Suresh is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "97e012d6-8a3f-46c5-afba-7f7c6fc532c1",
+    "occurred_at": "2026-07-14T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "0e82223f"
+    },
+    "raw_asr": "pritha submitting CRE assignment 23",
+    "formatted_text": "Pritha is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "46c171bc-f6e8-4967-a570-6dad306aeddb",
+    "occurred_at": "2026-05-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "5fb08449"
+    },
+    "raw_asr": "pritha checking lab safety 63",
+    "formatted_text": "Pritha is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "451975d2-55b7-4f0f-a418-1d8075795243",
+    "occurred_at": "2026-06-04T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "af1ff4f8"
+    },
+    "raw_asr": "suresh worrying about placement process 41",
+    "formatted_text": "Suresh is worrying about the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "d1d34707-fe22-4469-9fcd-b946ae3eb727",
+    "occurred_at": "2026-07-10T00:00:00",
+    "mode": "hey_kivi",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "cfb4b31a"
+    },
+    "raw_asr": "kiran discussing lab safety 9",
+    "formatted_text": "Kiran is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "82b9b954-441f-402e-8ba5-8ad774db1155",
+    "occurred_at": "2026-08-03T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "c0e2827c"
+    },
+    "raw_asr": "pritha checking lab safety 30",
+    "formatted_text": "Pritha is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "cdf32893-ba86-4a71-82ba-73f44245c8dc",
+    "occurred_at": "2026-05-29T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "c01d5f62"
+    },
+    "raw_asr": "pritha submitting placement process 10",
+    "formatted_text": "Pritha is submitting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "b89e207f-fd39-412f-bc58-6a578bb878da",
+    "occurred_at": "2026-07-08T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "e51d1810"
+    },
+    "raw_asr": "ravi submitting hostel issues 27",
+    "formatted_text": "Ravi is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b2e2c531-c62f-4e67-9c2e-9923745ce0b8",
+    "occurred_at": "2026-05-06T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "070e37b9"
+    },
+    "raw_asr": "priya submitting hostel issues 53",
+    "formatted_text": "Priya is submitting the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "a3557346-ea97-4b37-a1a2-d94e2a763c2d",
+    "occurred_at": "2026-05-22T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "ecbf7321"
+    },
+    "raw_asr": "pritha worrying about hostel issues 1",
+    "formatted_text": "Pritha is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "d79c9acc-16df-462a-97f5-781a5c03852f",
+    "occurred_at": "2026-08-12T00:00:00",
+    "mode": "dictation",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "43038ef8"
+    },
+    "raw_asr": "ravi checking membrain separation 17",
+    "formatted_text": "Ravi is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "22092cb1-485d-4aa3-900e-8dc9443355b2",
+    "occurred_at": "2026-08-16T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "c206ea61"
+    },
+    "raw_asr": "kiran submitting membrane separation 22",
+    "formatted_text": "Kiran is submitting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "4be8b58d-aaa8-4609-832e-7e989f9758a9",
+    "occurred_at": "2026-08-09T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "e67d87f3"
+    },
+    "raw_asr": "kiran forgetting lab safety 10",
+    "formatted_text": "Kiran is forgetting the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "a9e09dcc-f78d-410d-b05c-3f973dd6c100",
+    "occurred_at": "2026-07-26T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "1849360e"
+    },
+    "raw_asr": "ravi checking placement process 23",
+    "formatted_text": "Ravi is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "92200608-b931-47d9-8642-16cde1fa1cb9",
+    "occurred_at": "2026-08-08T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "ca797f0e"
+    },
+    "raw_asr": "suresh worrying about CRE assignment 82",
+    "formatted_text": "Suresh is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "28f7d4b3-43f5-42fe-9f30-7041810771c5",
+    "occurred_at": "2026-06-14T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "41593dda"
+    },
+    "raw_asr": "suresh checking membrane separation 21",
+    "formatted_text": "Suresh is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "1450083c-2efa-4da0-8da0-3b13f25a2350",
+    "occurred_at": "2026-05-17T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "76249632"
+    },
+    "raw_asr": "prof. varghese checking CRE assignment 35",
+    "formatted_text": "Prof. Varghese is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "728a0a7a-eb90-4130-ae68-2fc8b0da4734",
+    "occurred_at": "2026-06-08T00:00:00",
+    "mode": "hey_kivi",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "d8a83bac"
+    },
+    "raw_asr": "kiran checking lab safety 43",
+    "formatted_text": "Kiran is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "78d018e0-041e-4073-a665-928a64191047",
+    "occurred_at": "2026-08-06T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "6b093b26"
+    },
+    "raw_asr": "prof. varghese worrying about CRE assignment 95",
+    "formatted_text": "Prof. Varghese is worrying about the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "622bc3cb-d6a9-46f1-8887-852b085a06c8",
+    "occurred_at": "2026-08-20T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "6b4a3296"
+    },
+    "raw_asr": "pritha checking hostel issues 33",
+    "formatted_text": "Pritha is checking the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "b2100726-fc83-4442-973c-077f4fabaf3d",
+    "occurred_at": "2026-07-08T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "2c42c5cd"
+    },
+    "raw_asr": "suresh forgetting membrane separation 16",
+    "formatted_text": "Suresh is forgetting the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "95e01de0-e400-4e85-aa04-1a2eb0eab18e",
+    "occurred_at": "2026-06-30T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "08303347"
+    },
+    "raw_asr": "suresh discussing lab safety 93",
+    "formatted_text": "Suresh is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "1ca81c54-a791-41ea-bd5e-27f8e894096f",
+    "occurred_at": "2026-08-21T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "451c2b1e"
+    },
+    "raw_asr": "kiran checking placement process 67",
+    "formatted_text": "Kiran is checking the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "256819ed-2dd0-4127-a10b-70ca33fd1761",
+    "occurred_at": "2026-07-02T00:00:00",
+    "mode": "dictation",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "60a5bf7b"
+    },
+    "raw_asr": "priya worrying about hostel issues 22",
+    "formatted_text": "Priya is worrying about the hostel issues.",
+    "language": "en"
+  },
+  {
+    "id": "6da5799a-e99c-4a6a-b2d1-34cd5997456e",
+    "occurred_at": "2026-05-30T00:00:00",
+    "mode": "dictation",
+    "source": "browser",
+    "app_context": {
+      "thread_id": "effcfc62"
+    },
+    "raw_asr": "kiran discussing CRE assignment 65",
+    "formatted_text": "Kiran is discussing the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "f7a2dd56-81e8-42d2-bc11-c48d16622977",
+    "occurred_at": "2026-06-21T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "a2942d97"
+    },
+    "raw_asr": "priya discussing lab safety 13",
+    "formatted_text": "Priya is discussing the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "a182aaba-cafd-4ad1-88a6-b0c8ef5684f2",
+    "occurred_at": "2026-07-25T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "f03a9118"
+    },
+    "raw_asr": "prof. varghese checking CRE assignment 41",
+    "formatted_text": "Prof. Varghese is checking the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "a59af2e0-96ff-473d-b303-f5c41141917f",
+    "occurred_at": "2026-08-10T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "f4863acd"
+    },
+    "raw_asr": "pritha checking lab safety 46",
+    "formatted_text": "Pritha is checking the lab safety.",
+    "language": "en"
+  },
+  {
+    "id": "28030a06-fbe6-4267-8828-cdf4e43179fe",
+    "occurred_at": "2026-07-18T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "1988179b"
+    },
+    "raw_asr": "kiran checking membrain separation 67",
+    "formatted_text": "Kiran is checking the membrane separation.",
+    "language": "en"
+  },
+  {
+    "id": "adf3df37-335b-41c8-afc7-268c6eb20dc2",
+    "occurred_at": "2026-07-11T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "01a87295"
+    },
+    "raw_asr": "kiran forgetting CRE assignment 52",
+    "formatted_text": "Kiran is forgetting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "04ed8efb-cfde-4bd0-b843-45037c577d55",
+    "occurred_at": "2026-06-09T00:00:00",
+    "mode": "hey_kivi",
+    "source": "whatsapp",
+    "app_context": {
+      "thread_id": "fca793e7"
+    },
+    "raw_asr": "prof. varghese forgetting placement process 83",
+    "formatted_text": "Prof. Varghese is forgetting the placement process.",
+    "language": "en"
+  },
+  {
+    "id": "a01b4683-6000-4853-a5d3-83c4565d85a3",
+    "occurred_at": "2026-08-11T00:00:00",
+    "mode": "dictation",
+    "source": "slack",
+    "app_context": {
+      "thread_id": "fcc800c3"
+    },
+    "raw_asr": "prof. varghese submitting CRE assignment 50",
+    "formatted_text": "Prof. Varghese is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "b16911d8-cd50-4408-97d9-2dc75d47b7e8",
+    "occurred_at": "2026-05-06T00:00:00",
+    "mode": "hey_kivi",
+    "source": "editor",
+    "app_context": {
+      "thread_id": "75b64bc6"
+    },
+    "raw_asr": "kiran submitting CRE assignment 67",
+    "formatted_text": "Kiran is submitting the CRE assignment.",
+    "language": "en"
+  },
+  {
+    "id": "1db8d436-b193-4f03-9e3c-2f42d2048f0d",
+    "occurred_at": "2026-06-27T00:00:00",
+    "mode": "dictation",
+    "source": "gmail",
+    "app_context": {
+      "thread_id": "c25ec6c0"
+    },
+    "raw_asr": "kiran worrying about lab safety 76",
+    "formatted_text": "Kiran is worrying about the lab safety.",
+    "language": "en"
+  }
+]
